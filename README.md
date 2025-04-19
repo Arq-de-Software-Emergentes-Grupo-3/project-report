@@ -1,6 +1,6 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-<br><img src="assets/images/upc-logo.png"></img><br>  
+<br><img src="./assets/img/chapter-I/upc.png"></img><br>  
     <strong>Ingeniería de Software - 2025-01</strong><br>
     <br>
     <strong>Arquitecturas De Software Emergentes - 1ASI0728 </strong><br>  
