@@ -1,39 +1,49 @@
-<center>
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+<br><img src="assets/images/upc-logo.png"></img><br>  
+    <strong>Ingeniería de Software - 2025-01</strong><br>
+    <br>
+    <strong>Arquitecturas De Software Emergentes - 1ASI0728 </strong><br>  
+    <br>
+    <strong>Profesor: Royer Edelwer Rojas Malasquez
+</strong><br>
+    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
+</p>
+<p align="center">
+    <strong>Startup: CleanCity Team </strong><br>
+    <strong>Producto: WasteTrack </strong>
+</p>
 
-# Universidad Peruana De Ciencas Aplicadas
-## 1ASI0728 Arquitecturas De Software Emergentes
-### INGENIERÍA DE SOFTWARE
-
-</center>
-
-<p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
-
-<center>
-
-# Informe Trabajo Final
-## Docente: Royer Edelwer Rojas Malasquez
-## Startup: GlucoTeam
-## Producto: 
-## Integrantes 
-
- </center> 
-
-* **Nombre Apellido    CODIGO**
-* **Maria Alejandra Díaz Villacrez  U202118315**
-* **Nombre Apellido    CODIGO**
-* **Nombre Apellido    CODIGO** 
-* **Nombre Apellido    CODIGO**
-
-<center>
-
-### Abril 2025
-### Ciclo: 2025 - 10
-### NRC: 1ASI0728 - 4283
-
-</center>
-
----
-
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Maria Alejandra Díaz Villacrez</td>
+            <td>U202118315</td>
+        </tr>
+        <tr>
+            <td>Joaquin David Rivadeneyra Ramos</td>
+            <td>U202211846</td>
+        </tr>
+        <tr>
+            <td> Nelson Elías Serrano</td>
+            <td>U202214733</td>
+        </tr>
+        <tr>
+            <td> Sergio André Gómez Vallejos</td>
+            <td>U20221D401</td>
+        </tr>
+        <tr>
+          <td>Diego Miguel Ramirez Ortega</td>
+          <td>U202123548</td>
+        </tr>
+    </table>
+  <h3 align="center" >Abril 2025</h3>
+</div>
 <br>
 
 ## Registro de Versiones del Informe
