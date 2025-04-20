@@ -304,17 +304,30 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
 
 ### 2.3.1. User Personas
 
+<p align="justify">
+   <strong>Segmento 1:</strong> Ciudadanos que desean conocer el recorrido del camión recolector y contribuir al orden urbano
+
+Luis Ramírez es un ingeniero ambiental de 45 años que trabaja en la Municipalidad de Trujillo, Perú. Está a cargo de la gestión del servicio de limpieza pública y se enfrenta constantemente a desafíos como la sobrecarga de contenedores, rutas ineficientes y quejas vecinales. Aunque tiene experiencia en planificación logística, sus decisiones suelen depender de reportes manuales y supervisiones presenciales. Está muy interesado en adoptar herramientas tecnológicas que automaticen la recolección de datos y optimicen las rutas de recolección de basura. Utiliza su laptop y smartphone para gestionar informes y coordinar con su equipo, y suele consultar LinkedIn para conocer tendencias sobre ciudades inteligentes y sostenibilidad urbana.
+</p>
+<br><img src="../assets/img/chapter-II/LuisRamirez.png"></img><br>  <br><br>
+
+<p align="justify">
+   <strong>Segmento 2:</strong> Funcionarios de municipalidades encargados de limpieza urbana
+
+Valeria Torres es una madre de familia de 29 años que vive en un barrio residencial de Arequipa, Perú. Se preocupa por la limpieza de su entorno y por educar a sus hijos en prácticas responsables con el medio ambiente. Suele organizar sus actividades del hogar y la disposición de residuos según el horario del camión recolector, pero frecuentemente se ve afectada por demoras o cambios inesperados. Utiliza su celular para comunicarse por WhatsApp, navegar en redes sociales y acceder a aplicaciones útiles. Está interesada en herramientas que le permitan saber exactamente cuándo pasarán a recoger la basura para evitar que se acumule en la vía pública. Sigue cuentas de sostenibilidad y orden urbano en Instagram y TikTok.
+</p>
+<br><img src="../assets/img/chapter-II/ValeriaTorres.png"></img><br>  <br>
 
 ### 2.3.2. User Task Matrix.
 
-
+<p>El User Task Matrix presenta las tareas más comunes que realizan Luis Ramírez y Valeria Torres en relación con la gestión del sistema de recolección de residuos urbanos. Para Luis, destacan la supervisión del sistema, la planificación de rutas y la atención a incidencias. En el caso de Valeria, las tareas más frecuentes giran en torno a conocer el horario del camión recolector y disponer adecuadamente los residuos. Este análisis revela cómo ambas partes participan en el sistema desde roles complementarios.</p>
 <body>
     <h2>User Task Matrix</h2>
-    <table>
+    <table border="0" cellspacing="0" cellpadding="8">
         <tr>
             <th rowspan="2">User Task</th>
-            <th colspan="2">Usuario 1</th>
-            <th colspan="2">Usuario 2</th>
+            <th colspan="2">Luis Ramírez</th>
+            <th colspan="2">Valeria Torres</th>
         </tr>
         <tr>
             <th>Frecuencia</th>
@@ -323,82 +336,125 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
             <th>Importancia</th>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Supervisar niveles de llenado de contenedores</td>
+            <td>SIEMPRE</td>
+            <td>ALTA</td>
+            <td>NUNCA</td>
+            <td>BAJA</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Planificar rutas de recolección</td>
+            <td>USUALMENTE</td>
+            <td>ALTA</td>
+            <td>NUNCA</td>
+            <td>BAJA</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Atender reportes e incidencias de vecinos</td>
+            <td>USUALMENTE</td>
+            <td>MEDIA</td>
+            <td>OCASIONALMENTE</td>
+            <td>ALTA</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Visualizar el recorrido estimado del camión recolector</td>
+            <td>OCASIONALMENTE</td>
+            <td>MEDIA</td>
+            <td>SIEMPRE</td>
+            <td>ALTA</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Disponer residuos según horario del camión recolector</td>
+            <td>RARAMENTE</td>
+            <td>MEDIA</td>
+            <td>SIEMPRE</td>
+            <td>ALTA</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-        </tr>
-        <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-        </tr>
-        <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Consultar información sobre sostenibilidad y limpieza urbana</td>
+            <td>OCASIONALMENTE</td>
+            <td>MEDIA</td>
+            <td>USUALMENTE</td>
+            <td>MEDIA</td>
         </tr>
     </table>
 </body>
 
 
+
 ### 2.3.3. User Journey Mapping.
 
+<p><strong>User Persona:</strong> Luis Ramirez</p>
+<p>El User Journey Mapping de Luis Ramírez resalta los desafíos operativos y estratégicos que enfrenta como encargado del servicio de limpieza pública en la municipalidad. A lo largo del proceso, Luis experimenta una carga significativa debido a la falta de información en tiempo real y herramientas inteligentes para optimizar rutas. Estas limitaciones generan retrasos, ineficiencias y constantes quejas vecinales. La incorporación de un sistema automatizado basado en sensores IoT representa una solución clave para mejorar su toma de decisiones, reducir costos y elevar la percepción ciudadana.</p>
+<br><img src="../assets/img/chapter-II/user_1.png"></img><br>  <br>
 
-### 2.3.5. As-is Scenario Mapping.
+<p><strong>User Persona:</strong> Valeria Torres</p>
+<p>El User Journey Mapping de Valeria Torres destaca las situaciones que enfrenta en su rutina diaria para disponer correctamente sus residuos. Valeria experimenta incertidumbre y frustración cuando no sabe con exactitud a qué hora pasará el camión recolector. Esto afecta su organización familiar y genera malestar por la acumulación de basura en la vía pública. La incorporación de una interfaz ciudadana que muestre en tiempo real el recorrido del camión y brinde alertas puede mejorar significativamente su experiencia y fomentar su compromiso con el cuidado del entorno urbano.</p>
+<br><img src="../assets/img/chapter-II/user_2.png"></img><br>  <br>
 
+### 2.3.4. As-is Scenario Mapping.
+
+<p><strong>User Persona:</strong> Luis Ramirez</p>
+<p>Este mapa describe el flujo actual del trabajo de Luis Ramírez como responsable del área de limpieza pública en una municipalidad. Desde la identificación de problemas hasta la entrega de informes, Luis debe revisar reportes, atender quejas vecinales, coordinar con su equipo operativo y tomar decisiones basadas en datos que muchas veces están incompletos o desactualizados. Sus pensamientos se centran en optimizar procesos y reducir quejas, mientras que sus emociones varían entre frustración por la ineficiencia del sistema actual y satisfacción cuando logra implementar mejoras tangibles.</p>
+<br><img src="../assets/img/chapter-II/asis_1.jpg"></img><br>  <br>
+
+
+<p><strong>User Persona:</strong> Valeria Torres</p>
+<p>Este mapa representa el flujo actual de actividades de Valeria Torres como ciudadana preocupada por el orden y la limpieza en su barrio. A lo largo del día, Valeria organiza la disposición de residuos en su hogar, consulta con vecinos sobre el horario del camión recolector, y enfrenta frustraciones cuando la información no es clara o los residuos no son recogidos a tiempo. Sus pensamientos giran en torno a mantener su hogar y vecindario limpio, mientras que sus emociones fluctúan entre satisfacción cuando todo está en orden y molestia cuando el camión no llega como esperaba.</p>
+<br><img src="../assets/img/chapter-II/asis_2.jpg"></img><br>  <br>
 
 ## 2.4. Ubiquitous Language.
 
-El **lenguaje ubicuo** es una parte fundamental de la estrategia de UX. Se refiere al conjunto de términos y frases que se utilizan de manera consistente en toda la aplicación para referirse a conceptos, acciones y elementos clave. El lenguaje ubicuo tiene los siguientes beneficios:
 
-- **Mejora la usabilidad**: Los usuarios pueden comprender fácilmente la aplicación y navegar por ella sin confusiones.
-  
-- **Aumenta la accesibilidad**: El uso de un lenguaje claro y conciso facilita el uso de la aplicación para personas con diferentes niveles de alfabetización y habilidades cognitivas.
-  
-- **Refuerza la marca**: Un lenguaje único y consistente ayuda a crear una identidad de marca fuerte y memorable.
-  
-- **Promueve la colaboración**: Facilita la comunicación entre los equipos de diseño, desarrollo y marketing.
+<table border="0" cellspacing="0" cellpadding="8">
+    <thead>
+        <tr>
+            <th>Término</th>
+            <th>Definición</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Smart Bin</td>
+            <td>Contenedor de residuos equipado con sensores IoT que miden el nivel de llenado en tiempo real.</td>
+        </tr>
+        <tr>
+            <td>Fill Level</td>
+            <td>Porcentaje de capacidad ocupada en un contenedor de basura.</td>
+        </tr>
+        <tr>
+            <td>Collection Route</td>
+            <td>Ruta planificada que sigue el camión recolector para recoger los residuos urbanos.</td>
+        </tr>
+        <tr>
+            <td>Route Optimization</td>
+            <td>Proceso de cálculo automático de la mejor ruta según nivel de llenado, distancia, prioridad y horario.</td>
+        </tr>
+        <tr>
+            <td>Waste Type</td>
+            <td>Categoría del residuo depositado (orgánico, reciclable, no reciclable, peligroso).</td>
+        </tr>
+        <tr>
+            <td>Priority Zone</td>
+            <td>Zona geográfica que requiere atención inmediata por alto volumen de residuos o quejas ciudadanas.</td>
+        </tr>
+        <tr>
+            <td>Citizen Interface</td>
+            <td>Parte del sistema orientada a los ciudadanos, donde pueden consultar el estado del servicio.</td>
+        </tr>
+        <tr>
+            <td>Alert Notification</td>
+            <td>Mensaje enviado a funcionarios o ciudadanos cuando un contenedor supera el umbral de llenado.</td>
+        </tr>
+        <tr>
+            <td>IoT Monitoring</td>
+            <td>Supervisión en tiempo real del estado de los contenedores mediante sensores conectados.</td>
+        </tr>
+        <tr>
+            <td>Overflow Risk</td>
+            <td>Probabilidad de que un contenedor se desborde antes de ser recolectado.</td>
+        </tr>
+    </tbody>
+</table>
 
-**Glosario:**
 

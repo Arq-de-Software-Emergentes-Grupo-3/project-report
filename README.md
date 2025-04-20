@@ -30,8 +30,8 @@
             <td>U202211846</td>
         </tr>
         <tr>
-            <td> Nelson Elías Serrano</td>
-            <td>U202214733</td>
+            <td> Anthony Piero Avalos Santos</td>
+            <td>U20211C596</td>
         </tr>
         <tr>
             <td> Sergio André Gómez Vallejos</td>
@@ -61,7 +61,7 @@ URL del repositorio para el reporte del proyecto: https://github.com/GlucoTeam-I
 Github Collaboration Insights proporciona un cronograma que muestra las principales ramas y los procesos de fusión que han ocurrido. Todas las ramas se han generado siguiendo los principios de GitFlow, lo que garantiza una organización efectiva al utilizar un sistema de control de versiones.
 
 - Maria Alejandra Díaz Villacrez (alehandraxx)
-- Nombre Apellido (usuarioGithub)
+- Anthony Piero Avalos Santos (Anthony2000AA)
 - Nombre Apellido (usuarioGithub)
 - Nombre Apellido (usuarioGithub)
 - Nombre Apellido (usuarioGithub)
