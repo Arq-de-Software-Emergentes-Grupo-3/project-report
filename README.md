@@ -51,12 +51,13 @@
 | Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                      |
 |---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
+| 1.1     | 21/04/2025 | Alejandra Díaz                                                                | Se concluye el capitulo 4 |
 
 
 
 ### Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: https://github.com/GlucoTeam-IoT/project-report
+URL del repositorio para el reporte del proyecto: https://github.com/Arq-de-Software-Emergentes-Grupo-3/project-report
 
 Github Collaboration Insights proporciona un cronograma que muestra las principales ramas y los procesos de fusión que han ocurrido. Todas las ramas se han generado siguiendo los principios de GitFlow, lo que garantiza una organización efectiva al utilizar un sistema de control de versiones.
 
@@ -300,11 +301,11 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        Lideré la elaboración del EventStorming y el Context Mapping para el sistema WasteTrack, facilitando sesiones colaborativas donde identificamos bounded contexts, relaciones y patrones de integración. Coordiné la creación de los diagramas en Miro y garanticé que todas las perspectivas del equipo fueran consideradas durante el proceso de diseño estratégico. 
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+        El equipo demostró un liderazgo efectivo y distribuido durante el diseño estratégico de la arquitectura de WasteTrack. Cada miembro asumió responsabilidades según sus fortalezas, permitiendo una colaboración fluida en la elaboración del EventStorming, identificación de bounded contexts y definición del Context Mapping. Esta aproximación distribuyó naturalmente el liderazgo según las diferentes etapas del proceso, resultando en un diseño de arquitectura cohesivo que responde efectivamente a las necesidades de los stakeholders y a los atributos de calidad definidos. 
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
@@ -347,11 +348,11 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        Organicé reuniones semanales de sincronización donde cada miembro compartía sus avances y desafíos, fomentando un entorno donde todos podían contribuir con ideas y recibir retroalimentación constructiva. 
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+        El equipo logró crear un ambiente de trabajo colaborativo y estructurado mediante la combinación de herramientas de planificación efectivas, comunicación transparente y división equilibrada de responsabilidades. Los objetivos establecidos para el TB1 se cumplieron satisfactoriamente gracias a la definición clara de metas individuales y colectivas, seguimiento constante del progreso y adaptación ágil frente a obstáculos. Esta metodología de trabajo nos permitió completar el diseño estratégico de la arquitectura dentro del plazo establecido, manteniendo alta calidad en los entregables y asegurando la participación equitativa de todos los miembros. 
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
