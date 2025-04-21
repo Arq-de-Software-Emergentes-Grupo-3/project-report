@@ -143,49 +143,47 @@ líneas de código que se han modificado en cada uno de los commits.
    
     3.4. [Product Backlog](docs/chapter-III.md#34-product-backlog)
 
-4. [Capítulo IV: Solution Software Design](docs/chapter-IV.md#capítulo-iv-solution-software-design)
+4. [Capítulo IV: Strategic-Level Software Design](docs/chapter-IV.md#capítulo-iv-strategic-level-software-design)
 
-    4.1. [Strategic-Level Domain-Driven Design](docs/chapter-IV.md#41-strategic-level-domain-driven-design)
+    4.1. [Strategic-Level Attribute-Driven Design](docs/chapter-IV.md#41-strategic-level-attribute-driven-design)
 
-    4.1.1. [EventStorming](docs/chapter-IV.md#411-eventstorming)
+      4.1.1. [Design Purpose](docs/chapter-IV.md#411-design-purpose)
 
-    4.1.1.1. [Candidate Context Discovery](docs/chapter-IV.md#4111-candidate-context-discovery)
+      4.1.2. [Attribute-Driven Design Inputs](docs/chapter-IV.md#412-attribute-driven-design-inputs)
 
-    4.1.1.2. [Domain Message Flows Modeling](docs/chapter-IV.md#4112-domain-message-flows-modeling)
+      4.1.2.1. [Primary Functionality (Primary User Stories)](docs/chapter-IV.md#4121-primary-functionality-primary-user-stories)
 
-    4.1.1.3. [Bounded Context Canvases](docs/chapter-IV.md#4113-bounded-context-canvases)
+      4.1.2.2. [Quality attribute Scenarios](docs/chapter-IV.md#4122-quality-attribute-scenarios)
 
-    4.1.2. [Context Mapping](docs/chapter-IV.md#412-context-mapping)
+      4.1.2.3. [Constraints](docs/chapter-IV.md#4123-constraints)
 
-    4.1.3. [Software Architecture](docs/chapter-IV.md#413-software-architecture)
+      4.1.3. [Architectural Drivers Backlog](docs/chapter-IV.md#413-architectural-drivers-backlog)
 
-    4.1.3.1. [Software Architecture System Landscape Diagram](docs/chapter-IV.md#4131-software-architecture-system-landscape-diagram)
+      4.1.4. [Architectural Design Decisions](docs/chapter-IV.md#414-architectural-design-decisions)
 
-    4.1.3.2. [Software Architecture Context Level Diagrams](docs/chapter-IV.md#4132-software-architecture-context-level-diagrams)
+      4.1.5. [Quality Attribute Scenario Refinements](docs/chapter-IV.md#415-quality-attribute-scenario-refinements)
 
-    4.1.3.3. [Software Architecture Container Level Diagrams](docs/chapter-IV.md#4133-software-architecture-container-level-diagrams)
+    4.2. [Strategic-Level Domain-Driven Design](docs/chapter-IV.md#42-strategic-level-domain-driven-design)
 
-    4.1.3.4. [Software Architecture Deployment Diagrams](docs/chapter-IV.md#4134-software-architecture-deployment-diagrams)
+      4.2.1. [EventStorming](docs/chapter-IV.md#421-eventstorming)
 
-    4.2. [Tactical-Level Domain-Driven Design](docs/chapter-IV.md#42-tactical-level-domain-driven-design)
+      4.2.2. [Candidate Context Discovery](docs/chapter-IV.md#422-candidate-context-discovery)
 
-    4.2.1. [Bounded Context](docs/chapter-IV.md#421-bounded-context)
+      4.2.3. [Domain Message Flows Modeling](docs/chapter-IV.md#423-domain-message-flows-modeling)
 
-    4.2.1.1. [Domain Layer](docs/chapter-IV.md#4211-domain-layer)
+      4.2.4. [Bounded Context Canvases](docs/chapter-IV.md#424-bounded-context-canvases)
 
-    4.2.1.2. [Interface Layer](docs/chapter-IV.md#4212-interface-layer)
+      4.2.5. [Context Mapping](docs/chapter-IV.md#425-context-mapping)
 
-    4.2.1.3. [Application Layer](docs/chapter-IV.md#4213-application-layer)
+    4.3. [Software Architecture](docs/chapter-IV.md#43-software-architecture)
 
-    4.2.1.4. [Infrastructure Layer](docs/chapter-IV.md#4214-infrastructure-layer)
+      4.3.1. [Software Architecture System Landscape Diagram](docs/chapter-IV.md#431-software-architecture-system-landscape-diagram)
 
-    4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams](docs/chapter-IV.md#4215-bounded-context-software-architecture-component-level-diagrams)
+      4.3.2. [Software Architecture Context Level Diagrams](docs/chapter-IV.md#432-software-architecture-context-level-diagrams)
 
-    4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams](docs/chapter-IV.md#4216-bounded-context-software-architecture-code-level-diagrams)
+      4.3.3. [Software Architecture Container Level Diagrams](docs/chapter-IV.md#433-software-architecture-container-level-diagrams)
 
-    4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams](docs/chapter-IV.md#42161-bounded-context-domain-layer-class-diagrams)
-
-    4.2.1.6.2. [Bounded Context Database Design Diagram](docs/chapter-IV.md#42162-bounded-context-database-design-diagram)
+      4.3.4. [Software Architecture Deployment Diagrams](docs/chapter-IV.md#434-software-architecture-deployment-diagrams)
 
 5. [Capítulo V: Solution UI/UX Design](docs/chapter-V.md#capítulo-v-solution-uiux-design)
 
