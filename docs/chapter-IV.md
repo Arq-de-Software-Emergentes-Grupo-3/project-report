@@ -108,7 +108,63 @@ Esta identificación nos proporcionó una base sólida para continuar con el mod
 
 ### 4.2.3. Domain Message Flows Modeling
 
+Los Domain Message Flows modelan las interacciones entre los diferentes bounded contexts, mostrando cómo se comunican entre sí mediante comandos, eventos y consultas. A continuación, presentamos los flujos de mensaje para cuatro escenarios clave de nuestra aplicación:
+
+**Scenario 1: Access platform as a new user**
+
+Este flujo de mensajes modela cómo un usuario nuevo accede a la plataforma WasteTrack, ilustrando las interacciones entre el usuario y el bounded context de Access, y cómo este se comunica con el contexto de Monitoring.
+
+<img src="../assets/img/chapter-IV/messageFlow1.jpg"> 
+
+Este flujo demuestra la relación Customer-Supplier entre Access y Monitoring, donde Access actúa como proveedor de información de autenticación y autorización.
+
+**Scenario 2: Select favorite container**
+
+Este flujo modela cómo un usuario selecciona un contenedor como favorito para recibir notificaciones específicas sobre su estado.
+
+<img src="../assets/img/chapter-IV/messageFlow2.jpg"> 
+
+Este flujo ilustra cómo la interacción del usuario con el sistema desencadena cambios en múltiples bounded contexts utilizando el patrón de comunicación basado en eventos.
+
+**Scenario 3: Generating route simulation**
+
+Este flujo muestra el proceso de generación de una simulación de ruta optimizada para la recolección de residuos.
+
+<img src="../assets/img/chapter-IV/messageFlow3.jpg"> 
+
+Este flujo demuestra la relación Partnership entre Simulation y Monitoring, así como la relación Customer-Supplier entre IoT Device y Simulation.
+
+**Scenario 4: Alert user when favorite container overflow**
+
+Este flujo ilustra cómo el sistema detecta y notifica a un usuario cuando su contenedor favorito está por desbordarse.
+
+<img src="../assets/img/chapter-IV/messageFlow4.jpg"> 
+
+Este flujo demuestra cómo se implementa el patrón Published Language entre IoT Device y Monitoring, permitiendo una comunicación estandarizada sobre el estado de los contenedores que beneficia directamente a los usuarios finales.
+
+Estos flujos de mensaje son fundamentales para entender cómo los diferentes componentes de nuestro sistema interactúan entre sí, permitiéndonos identificar posibles cuellos de botella, optimizar la comunicación y garantizar que la arquitectura responda adecuadamente a los casos de uso principales.
+
 ### 4.2.4. Bounded Context Canvases
+
+Los Bounded Context Canvases son herramientas visuales que nos permiten documentar las características fundamentales de cada contexto delimitado, capturando su propósito estratégico, modelo de dominio, lenguaje ubicuo, políticas y relaciones con otros contextos. A continuación, presentamos los canvases para nuestros cuatro bounded contexts identificados, que nos ayudaron a definir claramente las responsabilidades y límites de cada uno.
+
+**Access Bounded Context:** Este canvas detalla nuestro contexto de acceso, responsable de la autenticación y autorización. Definimos sus principales modelos de dominio (Usuario, Rol, Permiso), las políticas de seguridad y los eventos clave como el registro de usuario y la autenticación. Su propósito estratégico es garantizar que solo los usuarios autorizados puedan acceder a funcionalidades específicas del sistema, actuando como proveedor upstream para otros contextos. El canvas ilustra claramente cómo este contexto encapsula toda la lógica relacionada con la identidad y seguridad.
+
+<img src="../assets/img/chapter-IV/boundedContext3.jpg">
+
+**Monitoring Bounded Context:** Este canvas muestra nuestro contexto de monitoreo, que representa el núcleo de la experiencia del usuario con la aplicación. Identificamos sus principales entidades (Contenedor, Favorito, Alerta) y las capacidades clave como visualización de contenedores en tiempo real, sistema de favoritos y notificaciones. Este contexto actúa como cliente downstream de Access e IoT Device, mientras mantiene una relación de partnership con Simulation. El canvas nos permitió visualizar la complejidad de este contexto y sus múltiples integraciones.
+
+<img src="../assets/img/chapter-IV/boundedContext1.jpg">
+
+**Simulation Bounded Context:** El canvas de simulación refleja la sofisticación técnica de este contexto, mostrando su responsabilidad en la optimización de rutas y predicciones. Documentamos sus modelos de dominio principales (Ruta, Simulación, Parámetro), sus algoritmos de optimización y su dependencia de los datos históricos proporcionados por IoT Device. Este contexto implementa un ACL para transformar los datos del IoT en formatos adecuados para sus algoritmos de optimización, lo que se refleja claramente en el canvas.
+
+<img src="../assets/img/chapter-IV/boundedContext4.jpg">
+
+**IoT Device Bounded Context:** Este canvas presenta nuestro contexto más cercano al hardware, responsable de gestionar los dispositivos físicos y sus sensores. Identificamos sus principales agregados (Dispositivo, Sensor, Medición), los eventos que genera (como cambios en el nivel de llenado) y su rol como publicador de datos para otros contextos. El canvas muestra claramente cómo este contexto implementa un patrón Published Language para estandarizar la comunicación con Monitoring y Simulation.
+
+<img src="../assets/img/chapter-IV/boundedContext2.jpg">
+
+Estos canvases fueron herramientas fundamentales para definir la arquitectura de nuestra solución, permitiéndonos visualizar cada contexto como una unidad coherente con responsabilidades claras y bien definidas. Además, nos ayudaron a identificar los puntos de integración entre contextos que luego refinamos en el Context Mapping.
 
 ### 4.2.5. Context Mapping
 
