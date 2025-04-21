@@ -63,9 +63,9 @@
         </thead>
         <tbody>
             <tr>
-                <td>Texto</td>
+                <td>Needfinding</td>
                 <td>Cantidad de videos: 1 <br> 
-                  Nomenclatura:  <br>
+                  Nomenclatura: upc-pre-202501-1ASI0728-4283-cleancityteam-needfinding-sprint-1 <br>
                   Formato: .mp4 <br>
                   Duración:  </td>
                 <td>Texto</td>

@@ -71,7 +71,7 @@ Finalmente, identificamos los contextos delimitados o bounded contexts, que son 
 
 <img src="../assets/img/chapter-IV/eventStorming9.jpg"> 
 
-#### 4.2.2. Candidate Context Discovery
+### 4.2.2. Candidate Context Discovery
 
 A partir del EventStorming realizado en Miro, nuestro equipo llevó a cabo una sesión de Candidate Context Discovery para identificar los bounded contexts de nuestra solución. Utilizamos principalmente la técnica look-for-pivotal-events durante la sesión.
 
@@ -106,11 +106,110 @@ Como resultado de este proceso, identificamos los siguientes bounded contexts pa
 
 Esta identificación nos proporcionó una base sólida para continuar con el modelado más detallado de cada contexto y sus interacciones.
 
-#### 4.2.3. Domain Message Flows Modeling
+### 4.2.3. Domain Message Flows Modeling
 
-#### 4.2.4. Bounded Context Canvases
+### 4.2.4. Bounded Context Canvases
 
 ### 4.2.5. Context Mapping
+
+Después de identificar nuestros bounded contexts (Access, Monitoring, Simulation e IoT Device), procedimos a definir las relaciones entre ellos mediante la técnica de Context Mapping. Este proceso nos permitió visualizar cómo estos contextos se comunican y colaboran entre sí en nuestro sistema WasteTrack.
+
+**Proceso de elaboración**
+Para elaborar nuestro Context Map, analizamos varias alternativas evaluando diferentes escenarios y relaciones posibles entre los bounded contexts:
+
+- Alternativa 1: Modelo Inicial
+
+<img src="../assets/img/chapter-IV/contextMapping1.png"> 
+
+Donde: U/D: Upstream/Downstream (relación Cliente/Proveedor)
+
+En este modelo inicial, Access actúa como proveedor para Monitoring, proporcionando autenticación de usuarios. IoT Device suministra datos a Simulation y Monitoring para el seguimiento y optimización de rutas.
+
+- Alternativa 2: Con Anti-corruption Layer
+
+Consideramos la inclusión de Anti-corruption Layers para proteger los modelos de dominio:
+
+<img src="../assets/img/chapter-IV/contextMapping2.png"> 
+
+Donde: ACL: Anti-corruption Layer
+
+Esta alternativa añade capas de traducción para proteger los modelos de dominio cuando la comunicación cruzaba fronteras de contexto.
+
+- Alternativa 3: Con Shared Kernel
+
+Evaluamos si algunas funcionalidades compartidas podrían beneficiarse de un Shared Kernel:
+
+<img src="../assets/img/chapter-IV/contextMapping3.png"> 
+
+En esta alternativa, IoT Device y Simulation comparten un kernel común para el modelo de estado de los contenedores.
+
+**Evaluación de alternativas**
+Nos planteamos las siguientes preguntas clave para evaluar nuestras alternativas:
+
+1. ¿Qué pasaría si movemos la gestión de alertas del IoT Device al contexto de Monitoring?
+
+- Ventaja: Simplificaría la interfaz para el usuario final
+- Desventaja: Crearía una fuerte dependencia y acoplamientos indeseados
+
+2. ¿Qué pasaría si descomponemos el capability de optimización de rutas en Simulation y movemos parte a un nuevo contexto?
+
+- Ventaja: Mejor separación de responsabilidades
+- Desventaja: Aumentaría la complejidad de coordinación entre contextos
+
+3. ¿Qué pasaría si duplicamos la funcionalidad de consulta de estado en IoT Device y Monitoring para romper dependencias?
+
+- Ventaja: Mayor autonomía entre contextos
+- Desventaja: Posible inconsistencia de datos y mayor mantenimiento
+
+4. ¿Qué pasaría si creamos un shared service para gestionar notificaciones entre múltiples bounded contexts?
+
+- Ventaja: Evita duplicación de código y unifica la experiencia de notificaciones
+- Desventaja: Introduce una dependencia compartida que podría limitar la evolución independiente
+
+**Modelo de Context Map Final**
+
+Después de evaluar todas las alternativas, optamos por el siguiente Context Map:
+
+<img src="../assets/img/chapter-IV/contextMapping4.png"> 
+
+**Relaciones entre contextos:**
+
+1. Access ↔ Monitoring (Customer-Supplier):
+
+- Access actúa como proveedor (Upstream) proporcionando autenticación y autorización
+- Monitoring actúa como cliente (Downstream) consumiendo la información de usuarios autenticados
+- Se implementa un Anti-corruption Layer en Monitoring para traducir el modelo de usuario de Access
+
+2. IoT Device ↔ Monitoring (Published Language):
+
+- IoT Device publica datos de sensores en un formato estandarizado
+- Monitoring se suscribe a estos datos para mostrar información en tiempo real
+- Ambos contextos acuerdan un lenguaje común para la comunicación
+
+3. IoT Device ↔ Simulation (Customer-Supplier):
+
+- IoT Device proporciona datos históricos y en tiempo real (Upstream)
+- Simulation consume estos datos para generar predicciones y optimizar rutas (Downstream)
+- Simulation implementa un Anti-corruption Layer para transformar los datos del IoT
+
+4. Simulation ↔ Monitoring (Partnership):
+
+- Ambos contextos colaboran estrechamente para proporcionar una experiencia completa
+- Comparten algunos modelos y conceptos, pero mantienen su independencia
+- La comunicación es bidireccional y fluida
+
+**Justificación:**
+
+Elegimos este modelo porque:
+
+1. Mantiene una clara separación de responsabilidades entre contextos
+2. Usa Anti-corruption Layers donde es necesario proteger los modelos de dominio
+3. Establece un Published Language para estandarizar la comunicación entre IoT Device y otros contextos
+4. Crea una Partnership entre Simulation y Monitoring que refleja su estrecha colaboración
+5. Evita la creación de dependencias innecesarias que dificultarían la evolución del sistema
+6. Permite que cada equipo trabaje con autonomía en su bounded context
+
+Este Context Map proporciona una base sólida para el desarrollo de nuestro sistema WasteTrack, facilitando la comunicación entre equipos y estableciendo claramente las interacciones entre los diferentes dominios de la aplicación.
 
 ### 4.3. Software Architecture
 
