@@ -34,8 +34,8 @@
             <td>U20211C596</td>
         </tr>
         <tr>
-            <td> Sergio André Gómez Vallejos</td>
-            <td>U20221D401</td>
+            <td> Daniel Valverde Lopez</td>
+            <td>U202121440</td>
         </tr>
         <tr>
           <td>Diego Miguel Ramirez Ortega</td>
@@ -48,11 +48,12 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                      |
-|---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
-| 1.1     | 20/04/2025 | Joaquin Rivadeneyra                                                           | Se concluye el capitulo 1 y 2 |
-| 1.1     | 21/04/2025 | Alejandra Díaz                                                                | Se concluye el capitulo 4 |
+| Versión | Fecha      | Autor               | Descripción de modificación                                                                                         |
+|---------|------------|---------------------|---------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 04/04/2025 | Alejandra Díaz      | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
+| 1.1     | 20/04/2025 | Joaquin Rivadeneyra | Se concluye el capitulo 1 y 2                                                                                       |
+| 1.1     | 21/04/2025 | Alejandra Díaz      | Avance del capitulo 4                                                                                               |
+| 1.2     | 23/04/2025 | Daniel Valverde     | Se concluye del capitulo 4 y agrega entrevista                                                                      |
 
 
 
@@ -65,7 +66,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 - Maria Alejandra Díaz Villacrez (alehandraxx)
 - Anthony Piero Avalos Santos (Anthony2000AA)
 - Joaquin David Rivadeneyra Ramos (joqui4)
-- Nombre Apellido (usuarioGithub)
+- Daniel Valverde Lopez (danielv)
 - Nombre Apellido (usuarioGithub)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
@@ -320,8 +321,7 @@ ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Valverde Lopez, Daniel TB1</b>: Realicé una entrevista al segmento objetivo de ciudadanos, a partir de la comunicación efectiva pude entender la problemática que enfrenta y cómo la solución propuesta genera una buena expectativa frente al usuario, además elaboré los diagramas de arquitectura del software los cuales nos ayudarán para entender a distintos niveles de especificación cómo se relacionan entre sí los distintos artefactos que componen la solución.<br>
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
@@ -364,8 +364,7 @@ ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Valverde Lopez, Daniel TB1:</b> Comuniqué efectivamente con el equipo de trabajo sobre las tareas asignadas a cada uno, el estado de realización de las mismas y aporté ideas relacionadas al desarrollo de la solución.<br>
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
