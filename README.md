@@ -38,7 +38,7 @@
             <td>U202121440</td>
         </tr>
         <tr>
-          <td>Diego Miguel Ramirez Ortega</td>
+          <td>Nicolás Andrés Cortés Hidalgo</td>
           <td>U202123548</td>
         </tr>
     </table>
@@ -54,6 +54,7 @@
 | 1.1     | 20/04/2025 | Joaquin Rivadeneyra | Se concluye el capitulo 1 y 2                                                                                       |
 | 1.1     | 21/04/2025 | Alejandra Díaz      | Avance del capitulo 4                                                                                               |
 | 1.2     | 23/04/2025 | Daniel Valverde     | Se concluye del capitulo 4 y agrega entrevista                                                                      |
+| 1.3     | 23/04/2025 | Nicolás Cortés      | Primera parte del Capitulo 4 finalizada, se añadio entrevista                                                       |
 
 
 
@@ -67,7 +68,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 - Anthony Piero Avalos Santos (Anthony2000AA)
 - Joaquin David Rivadeneyra Ramos (joqui4)
 - Daniel Valverde Lopez (danielv)
-- Nombre Apellido (usuarioGithub)
+- Nicolás Andrés Cortés Hidalgo (Mrkonik16)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
 
@@ -327,8 +328,8 @@ ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Cortés Hidalgo, Nicolás TB1:</b> Me encargué de la primera del Capítulo IV, que incluye apartados principalmente relacionados a la arquitectura del sistema a desarrollar, calidad de los mismos, y restricciones que cada una de las tecnologías a utilizar puedan llegar a tener en el transcurso del desarrollo. Además de ello, realize una entrevista a un funcionario publico de gestión de residuos urbanos, permitiéndome entender mucho mejor la problemática que estamos tratando de resolver.<br>
+       </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
@@ -370,8 +371,8 @@ ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Cortés Hidalgo, Nicolás TB1:</b> Cumplí con mis tareas asignadas (realización del capítulo 4 y entrevista a segmento objetivo funcionario) y me comuniqué con el equipo para informar de mis avances, para mantener una comunicación y trabajo en equipo efectivos.<br>
+       </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
