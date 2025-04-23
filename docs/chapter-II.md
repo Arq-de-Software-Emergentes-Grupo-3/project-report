@@ -132,10 +132,9 @@ Nelson Serrano trabaja en la Municipalidad de San Isidro, donde gestiona la reco
 </p>
 
 Entrevistado #2:
+![entrevista-lector4](../assets/img/chapter-II/Entrevista-Funcionario-Nicolas.jpeg)
 
-![entrevista-lector4]()
-
-Nombre: 
+Nombre: Leonardo Soto Tagle
 
 ●	Sexo: Masculino
 
@@ -146,11 +145,11 @@ Nombre:
 
 Entrevista:
 
-●	Link: [Click para ver entrevista]()
+●	Link: [Click para ver entrevista](https://youtu.be/TDk6NwubPeU)
 
 ●	Momento en el que inicia: 0:00
 
-●	Duración: 
+●	Duración: 7:08
 
 Resumen:
 <p align="justify">
