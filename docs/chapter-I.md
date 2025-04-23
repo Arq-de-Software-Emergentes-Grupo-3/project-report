@@ -49,13 +49,12 @@ Convertirnos en la plataforma líder de gestión de residuos urbanos, utilizando
         <tr>
             <!-- DATOS del integrante 3-->
             <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+            <img src="../assets/img/chapter-I/daniel.jpeg" height="100" width="">
+            <br>Josue Daniel Valverde Lopez - U202121440
             </td>
-            <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Estudiante de la carrera de Ingeniería de Software en 8avo ciclo. Me gusta trabajar en equipo, aprender sobre nuevas tecnologías relacionadas a la inteligencia artificial y automatización de procesos.</td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Poseo conocimientos en desarrollo web fullstack usando frameworks como angular, vue, express y herramientas de nube como azure function apps, app services y cosmos db</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 4-->
