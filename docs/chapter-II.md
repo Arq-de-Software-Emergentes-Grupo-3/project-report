@@ -225,31 +225,30 @@ Resumen:
 
 Entrevistado #2: 
 
-Mateo Loechle
-![Entrevista3](./images/mateo-entrevista.png)
+Diego Cantoral
 
+<img src="../assets/img/chapter-II/entrevista-ciudadano-diego.PNG" alt="Entrevista">
+ 
 ●	Sexo: Masculino
 
+●	Edad: 22 años
 
-●	Edad: 29 años
+●	Distrito en el que vive: Pueblo Libre
 
-●	Distrito en el que vive: Lima
-
-●	Nivel socioeconómico: Clase A
 
 Entrevista:
 
-●	Link: [Click para ver entrevista](https://drive.google.com/file/d/18aUbc2nDt8k6JsA4vORVyraxBvSmktZF/view?usp=sharing)
+●	Link: 
 
-●	Momento en el que inicia: 0:00
+●	Momento en el que inicia: 
 
-●	Duración: 9:04
+●	Duración: 
 
-●	Entrevistador: Elsner De La Torre Ugarte, Julio Esteban
+●	Entrevistador: Valverde Lopez, Josue Daniel
 
 Resumen:
 <p align="justify">
-Mateo Loechle de 29 años, propietario de una empresa de alquiler de vehículos, nos ofrece una visión detallada de los desafíos y estrategias en la gestión de su flota. Mateo destaca que uno de los mayores retos es mantener la rentabilidad de los vehículos, lo cual evalúa mediante criterios específicos como el costo de mantenimiento y la demanda de los diferentes tipos de vehículos, siendo los modelos económicos y SUV los más solicitados. Para garantizar la eficiencia y seguridad, implementa tecnologías avanzadas en la gestión de su flota, asegura un riguroso mantenimiento, y utiliza múltiples canales para adquirir clientes. La satisfacción del cliente es prioritaria, por lo que se enfoca en mantener sus vehículos en óptimas condiciones y maneja la rotación y fijación de precios con un enfoque estratégico. Mateo también destaca la importancia de la gestión de riesgos, incluyendo la atención a accidentes o daños, y la adaptación a la fluctuación en la demanda. Para diferenciarse en el competitivo mercado, Mateo implementa programas de incentivos para clientes habituales y se enfoca en la expansión a nuevas ubicaciones, considerando cuidadosamente las plataformas que mejor se adaptan a sus necesidades.
+Diego es un joven ciudadano del distrito de Pueblo Libre, quien nos comenta su experiencia con el servicio de recolección de residuos en su zona e indica que pocas veces falla el servicio de recolección. Sin embargo, ante esas situaciones no sabe como prevenir la acumulación de residuos. Se muestra de acuerdo con una plataforma la cual lo ayude con la visualización y alertas antes de que ocurra una acumulación de residuos.
 </p>
 
 Entrevistado #3:
