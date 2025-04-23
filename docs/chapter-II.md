@@ -137,11 +137,11 @@ Entrevistado #2:
 
 Nombre: 
 
-●	Sexo: M
+●	Sexo: Masculino
 
-●	Edad:
+●	Edad: 22 años
 
-●	Distrito en el que vive: 
+●	Distrito en el que vive: San Miguel
 
 
 Entrevista:
@@ -154,7 +154,7 @@ Entrevista:
 
 Resumen:
 <p align="justify">
-Resumen
+Leonardo trabaja en la municipalidad de San Miguel, se encarga del monitoreo de los camiones de basura y las operaciones que estos realizan durante las jornadas. Durante sus jornadas regulares, hace uso de herramientas de seguimiento y bases de datos para monitorear los camiones, los desperdicios que estos recogen, y otros parametros adicionales, para asi poder emitir reportes al final del dia con respecto al desempeño diario de cada una de las unidades. Nos indica que valoraria la implementacion de una tecnologia que permita hacer un seguimiento mucho mas detallado a los camiones, para asi determinar si alguno se esta llenando mas de lo debido, ademas, afirma que establecer rutas segun la disposicion del trafico en lugar de rutas predefinidas ayudaria considerablemente a la hora de optimizar los tiempos en los que los camiones opera de forma regular.
 </p>
 
 Entrevistado #3
