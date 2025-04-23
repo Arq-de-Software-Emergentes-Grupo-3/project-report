@@ -159,6 +159,36 @@ En esta sección se identificarán las Epics y User Stories más relevantes en t
       <th>Descripción</th>
       <th>Criterios de Aceptación</th>
     </tr>
+    <tr>
+      <td>CON-01</td>
+      <td>Arquitectura del sistema</td>
+      <td>Para asegurar un correcto despligue del sistema y mantenimiento del mismo, se seguirá un enfoque de arquitectura monolítica.</td>
+      <td>El sistema debe ser desarrollado y desplegado a partir de una arquiectura monolítica.</td>
+    </tr>
+    <tr>
+      <td>CON-02</td>
+      <td>Frontend y Backend</td>
+      <td>El sistema será desarrollado haciendo uso del framework Angular para el frontend, mientras que para el backend, se utilizará el lenguaje C#, bajo el framework .NET.</td>
+      <td>El frontend debe implementar el framework Angular, mientras que el backend, .NET.</td>
+    </tr>
+    <tr>
+      <td>CON-03</td>
+      <td>Herramientas de gestión</td>
+      <td>Para la gestión del proyecto, se hara uso de Trello, para la planificaión y seguimiento de las tareas a realizar; GitHub, para el control de versiones, y Discord para las reuniones del equipo.</td>
+      <td>Las herramientas de Trello, GitHub y Discord seran usadas para llevar un seguimiento del proyecto de forma óptima.</td>
+    </tr>
+    <tr>
+      <td>CON-04</td>
+      <td>Gestión de datos</td>
+      <td>Para el almacenamiento de los datos tales como estado de los camiones, filtro de residuos, entre otros; se hara uso de una base de datos relacional, la cual será MySQL, asegurando que los registros sean fáciles de manejar.</td>
+      <td>La base de datos a utilizar para el almacenamiento de datos sera MySQL.</td>
+    </tr>
+    <tr>
+      <td>CON-05</td>
+      <td>Plataforma en la nube</td>
+      <td>Para el despliegue de la solución, se hara uso de la plataforma Azurem asegurando asi escalabilidad y disponibilidad.</td>
+      <td>El sistema debe estar desplegado en Azure y debe funcionar correctamente, asegurando asi la escalabilidad y disponibilidad.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -176,46 +206,74 @@ En esta sección, se detallan como la importancia y el impacto que tienen tanto 
       <th>Impacto en la Complejidad Técnica de la Arquitectura</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>CON-01</td>
+      <td>Arquitectura del sistema</td>
+      <td>Para asegurar un correcto despligue del sistema y mantenimiento del mismo, se seguirá un enfoque de arquitectura monolítica.</td>
+      <th>Alta</th>
+      <th>Alta</th>
+    </tr>
+    <tr>
+      <td>CON-02</td>
+      <td>Frontend y Backend</td>
+      <td>El sistema será desarrollado haciendo uso del framework Angular para el frontend, mientras que para el backend, se utilizará el lenguaje C#, bajo el framework .NET.</td>
+      <th>Alta</th>
+      <th>Alta</th>
+    </tr>
+    <tr>
+      <td>CON-03</td>
+      <td>Herramientas de Gestión</td>
+      <td>Para la gestión del proyecto, se hara uso de Trello, para la planificaión y seguimiento de las tareas a realizar; GitHub, para el control de versiones, y Discord para las reuniones del equipo.</td>
+      <th>Media</th>
+      <th>Baja</th>
+    </tr>
+    <tr>
+      <td>CON-04</td>
+      <td>Gestión de datos</td>
+      <td>Para el almacenamiento de los datos tales como estado de los camiones, filtro de residuos, entre otros; se hara uso de una base de datos relacional, la cual será MySQL, asegurando que los registros sean fáciles de manejar.</td>
+      <th>Alta</th>
+      <th>Media</th>
+    </tr>
+    <tr>
+      <td>CON-05</td>
+      <td>Plataforma en la nube</td>
+      <td>Para el despliegue de la solución, se hara uso de la plataforma Azurem asegurando asi escalabilidad y disponibilidad.</td>
+      <th>Alta</th>
+      <th>Media</th>
     </tr>
     <tr>
       <td>AC-01</td>
       <td>Disponibilidad</td>
       <td>El sistema debe permitir que los ciudadanos reporten, en cualquier momento del día, aquellos contenedores que se encuentren desbordados de desperdicios para que la municipalidad del distrito en la que estos se ecnuentran residiendo tome medidas.</td>
-      <td>Alta</td>
-      <td>Media</td>
+      <th>Alta</th>
+      <th>Media</th>
     </tr>
     <tr>
       <td>AC-02</td>
       <td>Usabilidad</td>
       <td>El sistema debe poder actualizar la ubicación del camión que esta próximo a pasar por el hogar de un ciudadano en un tiempo no mayor a 5 segundos y debe enviar una notificación al dispositivo móvil de la persona cuando el camión se encuentre a, aproximadamente, 2 minutos de la residencia del mismo.</td>
-      <td>Alta</td>
-      <td>Media</td>
+      <th>Alta</th>
+      <th>Media</th>
     </tr>
     <tr>
       <td>AC-03</td>
       <td>Rendimiento</td>
       <td>El sistema debe poder generar la ruta óptima a recorrer por el camión en menos de 5 segundos.</td>
-      <td>Alta</td>
-      <td>Alta</td>
+      <th>Alta</th>
+      <th>Alta</th>
     </tr>
     <tr>
       <td>AC-04</td>
       <td>Escalabilidad</td>
       <td>El sistema debe ser capaz de escalar para manejar efectivamente un mayor número de residencias, lo cual, trae consigo una mayor cantidad de residuos a recoger y una clasificación mas detallada de los mismos.</td>
-      <td>Media</td>
-      <td>Alta</td>
+      <th>Media</th>
+      <th>Alta</th>
     </tr>
     <tr>
       <td>AC-05</td>
       <td>Mantenibilidad</td>
       <td>El sistema debe permitir realizar pruebas de mantenimiento asegurando un tiempo mínimo de inactividad, cuya duración no puede exceder las 24 horas</td>
-      <td>Alta</td>
-      <td>Media</td>
+      <th>Alta</th>
+      <th>Media</th>
     </tr>
   </tbody>
 </table>
