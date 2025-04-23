@@ -38,13 +38,13 @@ Convertirnos en la plataforma líder de gestión de residuos urbanos, utilizando
             <!-- DATOS del integrante 2-->
             <td>
             <img src="../assets/img/chapter-I/yo-Joaquin.jpg"
-            height="100" width="100">
-            <br>Estudiante - CODIGO
+            height="120" width="100">
+            <br>Joaquin David Rivadeneyra Ramos - U202211846
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Soy Joaquin Rivadeneyra, tengo 20 años y actualmente estoy cursando el 7to ciclo de la carrera de Ingeniería de Software. Me considero una persona comunicativa y abierta a nuevas ideas, lo que me permite tener una buena relación con los demás miembros del equipo y fomentar un ambiente de trabajo colaborativo..</td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Poseo habilidades en las que puedo aportar en el grupo son dominio y práctica de lenguajes de programación como Vue y Angular, documentación de proyectos y metodologías ágiles y conocimientos básicos de base de datos.</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 3-->

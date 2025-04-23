@@ -51,6 +51,7 @@
 | Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                      |
 |---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
+| 1.1     | 20/04/2025 | Joaquin Rivadeneyra                                                           | Se concluye el capitulo 1 y 2 |
 | 1.1     | 21/04/2025 | Alejandra Díaz                                                                | Se concluye el capitulo 4 |
 
 
@@ -63,7 +64,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 
 - Maria Alejandra Díaz Villacrez (alehandraxx)
 - Anthony Piero Avalos Santos (Anthony2000AA)
-- Nombre Apellido (usuarioGithub)
+- Joaquin David Rivadeneyra Ramos (joqui4)
 - Nombre Apellido (usuarioGithub)
 - Nombre Apellido (usuarioGithub)
 
@@ -281,6 +282,8 @@ líneas de código que se han modificado en cada uno de los commits.
 
 ## Student Outcome
 
+ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
+
 <table>
   <thead>
     <tr>
@@ -293,9 +296,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <tr>
      <!--PRIMER CRITERIO DE STUDENT OUTCOME-->
       <td rowspan="17">
-        Trabaja en equipo para 
-        proporcionar liderazgo en 
-        forma conjunta 
+        3.c1. Comunica oralmente con efectividad a
+        diferentes rangos de audiencia
       </td>
        <!--ENTREGA TB1-->
       <!-- Estudiante 1 TB1 -->    
@@ -311,8 +313,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
-      Texto  
+      <b>Rivadeneyra Ramos, Joaquin TB1:</b> <br> 
+      Realicé presentaciones orales a equipos internos y stakeholders de WasteTrack, adaptando el lenguaje según el público. Expresé claramente los beneficios de la plataforma durante entrevistas con usuarios, explicando cómo optimiza la recolección de residuos y fomenta la participación ciudadana. También presenté el análisis de segmentos objetivo, la competencia y las estrategias del proyecto, utilizando herramientas visuales para asegurar la comprensión y alineación de todos los involucrados. 
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
@@ -339,10 +341,7 @@ líneas de código que se han modificado en cada uno de los commits.
     <tr>
      <!--SEGUNDO CRITERIO DE STUDENT OUTCOME-->
       <td rowspan="17">
-        Crea un entorno colaborativo e 
-        inclusivo, establece metas, 
-        planifica tareas y cumple 
-        objetivos. 
+        3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia 
       </td>
        <!--ENTREGA TB1-->
       <!-- Estudiante 1 TB1 -->    
@@ -358,8 +357,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
-      Texto  
+      <b>Rivadeneyra Ramos, Joaquin TB1:</b> <br> 
+      Realicé comunicaciones escritas efectivas para diferentes audiencias, incluyendo informes detallados sobre el progreso de WasteTrack para stakeholders y resúmenes ejecutivos que destacaban los objetivos clave y resultados obtenidos. Redacté documentación técnica para el equipo de desarrollo, asegurando que las funcionalidades y requisitos de la plataforma estuvieran claramente especificados.
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
