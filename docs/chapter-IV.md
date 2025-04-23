@@ -805,11 +805,23 @@ Elegimos este modelo porque:
 Este Context Map proporciona una base sólida para el desarrollo de nuestro sistema WasteTrack, facilitando la comunicación entre equipos y estableciendo claramente las interacciones entre los diferentes dominios de la aplicación.
 
 ### 4.3. Software Architecture
-
+En esta sección se presentan los diagramas de arquitectura de la solución, que ilustran la estructura y los componentes clave. Estos diagramas son fundamentales para comprender cómo se organizan y comunican los diferentes components del sistema.
 #### 4.3.1. Software Architecture System Landscape Diagram
+Diagrama de arquitectura Landscape, gráfica a un nivel general, sin detallar explicitamente los componentes del sistema. En este diagrama se puede observar la relación entre el sistema y los actores externos que interactúan con él.
+
+<img src="../assets/img/chapter-IV/c4-landscape.PNG">
 
 #### 4.3.2. Software Architecture Context Level Diagrams
+Diagrama de arquitectura de contexto de Waste Track. En el cual podemos identificar los principales usuarios y cómo estos se relacionan con el sistema. Además se grafica cuales son las relaciones entre el sistema y servicios externos que proveen funcionalidades adicionales a la solución. 
+
+<img src="../assets/img/chapter-IV/c4-context.PNG"> 
 
 #### 4.3.3. Software Architecture Container Level Diagrams
+Diagrama de arquitectura de contenedores, incluye aplicaciones web y móvil, bases de datos, APIs y servicios externos que conforman la solución.
+
+<img src="../assets/img/chapter-IV/c4-containers.PNG">
 
 #### 4.3.4. Software Architecture Deployment Diagrams
+Diagrama de arquitectura de despliegue, principalmente se describen las tecnologías y proveedores de nube que se utilizarán para implementar la solución.
+
+<img src="../assets/img/chapter-IV/c4-deployment.png">
