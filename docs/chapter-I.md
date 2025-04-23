@@ -63,7 +63,7 @@ Convertirnos en la plataforma líder de gestión de residuos urbanos, utilizando
         <tr>
             <!-- DATOS del integrante 4-->
             <td>
-            <img src="" height="100" width="100">
+            <img src="../assets/img/chapter-I/Nicolas.png" height="100" width="100">
             <br>Nicolás Andrés Cortés Hidalgo U202016311
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
