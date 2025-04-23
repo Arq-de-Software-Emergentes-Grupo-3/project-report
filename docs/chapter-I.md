@@ -6,6 +6,10 @@
 
 **WasteTrack** es una startup innovadora dedicada a transformar la gestión de residuos urbanos a través de la tecnología. Mediante el uso de sensores IoT, nuestra plataforma permite monitorear en tiempo real el nivel de llenado de los contenedores de residuos, optimizando las rutas de recolección de basura de manera eficiente. A través de una interfaz intuitiva, los usuarios municipales pueden configurar y gestionar de forma individualizada cada contenedor, ajustando parámetros como el umbral de llenado, el tipo de residuo, los horarios de recolección y la prioridad. Al mismo tiempo, los ciudadanos pueden acceder a una interfaz básica que les permite visualizar el recorrido estimado de los camiones recolectores en su zona, promoviendo la transparencia y la colaboración en la gestión de residuos. El objetivo de WasteTrack es mejorar la eficiencia del servicio de recolección, reducir los costos operativos, evitar el desbordamiento de residuos y contribuir a la sostenibilidad de las ciudades.
 
+<p align="center">
+<img src="../assets/img/chapter-I/wasteTrackLogo.png" width="400"> 
+</p>
+
 **Misión:**  
 Facilitar la gestión inteligente de los residuos urbanos mediante tecnología avanzada, optimizando las rutas de recolección y promoviendo la participación activa de los ciudadanos en el proceso de limpieza urbana. Buscamos empoderar a los municipios con herramientas eficaces para tomar decisiones basadas en datos, mientras incentivamos a los ciudadanos a participar activamente en el mantenimiento de una ciudad más limpia.
 
