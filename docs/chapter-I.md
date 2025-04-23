@@ -61,12 +61,12 @@ Convertirnos en la plataforma líder de gestión de residuos urbanos, utilizando
             <!-- DATOS del integrante 4-->
             <td>
             <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+            <br>Nicolás Andrés Cortés Hidalgo U202016311
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Estudiante de 22 años de la carrera de Ingeniería de Software y Practicante de desarrollo web; Me considero una persona competitiva, amable y con la que es fácil socializar. Mis intereses principales son el análisis de datos y todo lo relacionado a la ciberseguridad.</td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Mis conocimientos principales están orientados a los lenguajes de programación, destacando en C#, PHP y Java. Además de ello, tengo experiencia manejando los frameworks de Angular, .NET y Spring Boot. Me desenvuelvo muy bien con distintos tipos de personas, por lo que me resulta fácil trabajar en equipo, priorizando siempre el avance del o de los proyectos.</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 5-->
