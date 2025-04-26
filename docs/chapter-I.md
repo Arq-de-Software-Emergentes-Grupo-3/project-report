@@ -273,6 +273,10 @@ Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en la efic
 | **What's the most important <br> thing we need to learn first?** | Conocer las expectativas de los municipios y los ciudadanos sobre la optimización de la recolección de residuos y la visibilidad en tiempo real. |
 | **What's the least amount of <br> work we need to do to learn <br> the next most important thing?** | Realizar entrevistas con usuarios municipales y ciudadanos para entender sus necesidades y expectativas. <br> Probar prototipos de la plataforma para validar la utilidad de las notificaciones y la optimización de rutas. |
 
+<p align="center">
+  <img src="../assets/img/chapter-I/canva.jpg" alt="Lean UX Canvas">
+</p>
+
 ### **1.3. Segmentos Objetivo**
 
 **Municipalidades:** 
