@@ -15,10 +15,6 @@
 
 En esta sección se detallan las historias de usuario.
 
-### 3.2.1. User Story Mapping
-
-### 3.2.2. User Stories
-
 <h2>3.2. User Stories</h2>
 <table border="0" cellspacing="0" cellpadding="8">
   <thead>
