@@ -35,7 +35,7 @@
 - **Optimización Local de Rutas**: **WasteTrack** optimiza las rutas de recolección teniendo en cuenta factores locales como el tráfico, la disposición geográfica de los contenedores y las prioridades de las municipalidades, lo que mejora la eficiencia operativa de manera más precisa que los competidores globales.
 
    <p align="center">
-     <img src="../assets/img/chapter-I/WasteTrackLogo.png" alt="WasteTrack Logo" width="200">
+     <img src="../assets/img/chapter-II/wasteTrack.png" alt="WasteTrack Logo" width="200">
    </p>
 
 <table>
