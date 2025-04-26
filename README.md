@@ -1,60 +1,75 @@
-<center>
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+<br><img src="./assets/img/chapter-I/upc.png"></img><br>  
+    <strong>Ingeniería de Software - 2025-01</strong><br>
+    <br>
+    <strong>Arquitecturas De Software Emergentes - 1ASI0728 </strong><br>  
+    <br>
+    <strong>Profesor: Royer Edelwer Rojas Malasquez
+</strong><br>
+    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
+</p>
+<p align="center">
+    <strong>Startup: CleanCity Team </strong><br>
+    <strong>Producto: WasteTrack </strong>
+</p>
 
-# Universidad Peruana De Ciencas Aplicadas
-## 1ASI0728 Arquitecturas De Software Emergentes
-### INGENIERÍA DE SOFTWARE
-
-</center>
-
-<p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
-
-<center>
-
-# Informe Trabajo Final
-## Docente: Royer Edelwer Rojas Malasquez
-## Startup: GlucoTeam
-## Producto: 
-## Integrantes 
-
- </center> 
-
-* **Nombre Apellido    CODIGO**
-* **Maria Alejandra Díaz Villacrez  U202118315**
-* **Nombre Apellido    CODIGO**
-* **Nombre Apellido    CODIGO** 
-* **Nombre Apellido    CODIGO**
-
-<center>
-
-### Abril 2025
-### Ciclo: 2025 - 10
-### NRC: 1ASI0728 - 4283
-
-</center>
-
----
-
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Maria Alejandra Díaz Villacrez</td>
+            <td>U202118315</td>
+        </tr>
+        <tr>
+            <td>Joaquin David Rivadeneyra Ramos</td>
+            <td>U202211846</td>
+        </tr>
+        <tr>
+            <td> Anthony Piero Avalos Santos</td>
+            <td>U20211C596</td>
+        </tr>
+        <tr>
+            <td> Daniel Valverde Lopez</td>
+            <td>U202121440</td>
+        </tr>
+        <tr>
+          <td>Nicolás Andrés Cortés Hidalgo</td>
+          <td>U202123548</td>
+        </tr>
+    </table>
+  <h3 align="center" >Abril 2025</h3>
+</div>
 <br>
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                      |
-|---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
+| Versión | Fecha      | Autor               | Descripción de modificación                                                                                         |
+|---------|------------|---------------------|---------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 04/04/2025 | Alejandra Díaz      | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
+| 1.1     | 20/04/2025 | Joaquin Rivadeneyra | Se concluye el capitulo 1 y 2                                                                                       |
+| 1.1     | 21/04/2025 | Alejandra Díaz      | Avance del capitulo 4                                                                                               |
+| 1.2     | 23/04/2025 | Daniel Valverde     | Se concluye del capitulo 4 y agrega entrevista                                                                      |
+| 1.3     | 23/04/2025 | Nicolás Cortés      | Primera parte del Capitulo 4 finalizada, se añadio entrevista                                                       |
+| 1.4    | 24/04/2025 | Anthony Avalos      | Se concluyo el capitulo 3, evidenciando correctamente la solucion a la problematica establecida                             |
 
 
 
 ### Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: https://github.com/GlucoTeam-IoT/project-report
+URL del repositorio para el reporte del proyecto: https://github.com/Arq-de-Software-Emergentes-Grupo-3/project-report
 
 Github Collaboration Insights proporciona un cronograma que muestra las principales ramas y los procesos de fusión que han ocurrido. Todas las ramas se han generado siguiendo los principios de GitFlow, lo que garantiza una organización efectiva al utilizar un sistema de control de versiones.
 
 - Maria Alejandra Díaz Villacrez (alehandraxx)
-- Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
+- Anthony Piero Avalos Santos (Anthony2000AA)
+- Joaquin David Rivadeneyra Ramos (joqui4)
+- Daniel Valverde Lopez (danielv)
+- Nicolás Andrés Cortés Hidalgo (Mrkonik16)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
 
@@ -133,49 +148,47 @@ líneas de código que se han modificado en cada uno de los commits.
    
     3.4. [Product Backlog](docs/chapter-III.md#34-product-backlog)
 
-4. [Capítulo IV: Solution Software Design](docs/chapter-IV.md#capítulo-iv-solution-software-design)
+4. [Capítulo IV: Strategic-Level Software Design](docs/chapter-IV.md#capítulo-iv-strategic-level-software-design)
 
-    4.1. [Strategic-Level Domain-Driven Design](docs/chapter-IV.md#41-strategic-level-domain-driven-design)
+    4.1. [Strategic-Level Attribute-Driven Design](docs/chapter-IV.md#41-strategic-level-attribute-driven-design)
 
-    4.1.1. [EventStorming](docs/chapter-IV.md#411-eventstorming)
+      4.1.1. [Design Purpose](docs/chapter-IV.md#411-design-purpose)
 
-    4.1.1.1. [Candidate Context Discovery](docs/chapter-IV.md#4111-candidate-context-discovery)
+      4.1.2. [Attribute-Driven Design Inputs](docs/chapter-IV.md#412-attribute-driven-design-inputs)
 
-    4.1.1.2. [Domain Message Flows Modeling](docs/chapter-IV.md#4112-domain-message-flows-modeling)
+      4.1.2.1. [Primary Functionality (Primary User Stories)](docs/chapter-IV.md#4121-primary-functionality-primary-user-stories)
 
-    4.1.1.3. [Bounded Context Canvases](docs/chapter-IV.md#4113-bounded-context-canvases)
+      4.1.2.2. [Quality attribute Scenarios](docs/chapter-IV.md#4122-quality-attribute-scenarios)
 
-    4.1.2. [Context Mapping](docs/chapter-IV.md#412-context-mapping)
+      4.1.2.3. [Constraints](docs/chapter-IV.md#4123-constraints)
 
-    4.1.3. [Software Architecture](docs/chapter-IV.md#413-software-architecture)
+      4.1.3. [Architectural Drivers Backlog](docs/chapter-IV.md#413-architectural-drivers-backlog)
 
-    4.1.3.1. [Software Architecture System Landscape Diagram](docs/chapter-IV.md#4131-software-architecture-system-landscape-diagram)
+      4.1.4. [Architectural Design Decisions](docs/chapter-IV.md#414-architectural-design-decisions)
 
-    4.1.3.2. [Software Architecture Context Level Diagrams](docs/chapter-IV.md#4132-software-architecture-context-level-diagrams)
+      4.1.5. [Quality Attribute Scenario Refinements](docs/chapter-IV.md#415-quality-attribute-scenario-refinements)
 
-    4.1.3.3. [Software Architecture Container Level Diagrams](docs/chapter-IV.md#4133-software-architecture-container-level-diagrams)
+    4.2. [Strategic-Level Domain-Driven Design](docs/chapter-IV.md#42-strategic-level-domain-driven-design)
 
-    4.1.3.4. [Software Architecture Deployment Diagrams](docs/chapter-IV.md#4134-software-architecture-deployment-diagrams)
+      4.2.1. [EventStorming](docs/chapter-IV.md#421-eventstorming)
 
-    4.2. [Tactical-Level Domain-Driven Design](docs/chapter-IV.md#42-tactical-level-domain-driven-design)
+      4.2.2. [Candidate Context Discovery](docs/chapter-IV.md#422-candidate-context-discovery)
 
-    4.2.1. [Bounded Context](docs/chapter-IV.md#421-bounded-context)
+      4.2.3. [Domain Message Flows Modeling](docs/chapter-IV.md#423-domain-message-flows-modeling)
 
-    4.2.1.1. [Domain Layer](docs/chapter-IV.md#4211-domain-layer)
+      4.2.4. [Bounded Context Canvases](docs/chapter-IV.md#424-bounded-context-canvases)
 
-    4.2.1.2. [Interface Layer](docs/chapter-IV.md#4212-interface-layer)
+      4.2.5. [Context Mapping](docs/chapter-IV.md#425-context-mapping)
 
-    4.2.1.3. [Application Layer](docs/chapter-IV.md#4213-application-layer)
+    4.3. [Software Architecture](docs/chapter-IV.md#43-software-architecture)
 
-    4.2.1.4. [Infrastructure Layer](docs/chapter-IV.md#4214-infrastructure-layer)
+      4.3.1. [Software Architecture System Landscape Diagram](docs/chapter-IV.md#431-software-architecture-system-landscape-diagram)
 
-    4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams](docs/chapter-IV.md#4215-bounded-context-software-architecture-component-level-diagrams)
+      4.3.2. [Software Architecture Context Level Diagrams](docs/chapter-IV.md#432-software-architecture-context-level-diagrams)
 
-    4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams](docs/chapter-IV.md#4216-bounded-context-software-architecture-code-level-diagrams)
+      4.3.3. [Software Architecture Container Level Diagrams](docs/chapter-IV.md#433-software-architecture-container-level-diagrams)
 
-    4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams](docs/chapter-IV.md#42161-bounded-context-domain-layer-class-diagrams)
-
-    4.2.1.6.2. [Bounded Context Database Design Diagram](docs/chapter-IV.md#42162-bounded-context-database-design-diagram)
+      4.3.4. [Software Architecture Deployment Diagrams](docs/chapter-IV.md#434-software-architecture-deployment-diagrams)
 
 5. [Capítulo V: Solution UI/UX Design](docs/chapter-V.md#capítulo-v-solution-uiux-design)
 
@@ -272,6 +285,8 @@ líneas de código que se han modificado en cada uno de los commits.
 
 ## Student Outcome
 
+ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
+
 <table>
   <thead>
     <tr>
@@ -284,93 +299,87 @@ líneas de código que se han modificado en cada uno de los commits.
     <tr>
      <!--PRIMER CRITERIO DE STUDENT OUTCOME-->
       <td rowspan="17">
-        Trabaja en equipo para 
-        proporcionar liderazgo en 
-        forma conjunta 
+        3.c1. Comunica oralmente con efectividad a
+        diferentes rangos de audiencia
       </td>
        <!--ENTREGA TB1-->
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        Lideré la elaboración del EventStorming y el Context Mapping para el sistema WasteTrack, facilitando sesiones colaborativas donde identificamos bounded contexts, relaciones y patrones de integración. Coordiné la creación de los diagramas en Miro y garanticé que todas las perspectivas del equipo fueran consideradas durante el proceso de diseño estratégico. 
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+        El equipo demostró un liderazgo efectivo y distribuido durante el diseño estratégico de la arquitectura de WasteTrack. Cada miembro asumió responsabilidades según sus fortalezas, permitiendo una colaboración fluida en la elaboración del EventStorming, identificación de bounded contexts y definición del Context Mapping. Esta aproximación distribuyó naturalmente el liderazgo según las diferentes etapas del proceso, resultando en un diseño de arquitectura cohesivo que responde efectivamente a las necesidades de los stakeholders y a los atributos de calidad definidos. 
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
-      Texto  
+      <b>Rivadeneyra Ramos, Joaquin TB1:</b> <br> 
+      Realicé presentaciones orales a equipos internos y stakeholders de WasteTrack, adaptando el lenguaje según el público. Expresé claramente los beneficios de la plataforma durante entrevistas con usuarios, explicando cómo optimiza la recolección de residuos y fomenta la participación ciudadana. También presenté el análisis de segmentos objetivo, la competencia y las estrategias del proyecto, utilizando herramientas visuales para asegurar la comprensión y alineación de todos los involucrados. 
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Valverde Lopez, Daniel TB1</b>: Realicé una entrevista al segmento objetivo de ciudadanos, a partir de la comunicación efectiva pude entender la problemática que enfrenta y cómo la solución propuesta genera una buena expectativa frente al usuario, además elaboré los diagramas de arquitectura del software los cuales nos ayudarán para entender a distintos niveles de especificación cómo se relacionan entre sí los distintos artefactos que componen la solución.<br>
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Cortés Hidalgo, Nicolás TB1:</b> Me encargué de la primera del Capítulo IV, que incluye apartados principalmente relacionados a la arquitectura del sistema a desarrollar, calidad de los mismos, y restricciones que cada una de las tecnologías a utilizar puedan llegar a tener en el transcurso del desarrollo. Además de ello, realize una entrevista a un funcionario publico de gestión de residuos urbanos, permitiéndome entender mucho mejor la problemática que estamos tratando de resolver.<br>
+       </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Avalos Santos, Anthony Piero TB1:</b><br>
+        Me encargue de identificar los User Personas ,dando a conocer a realidad actual de cada uno de ello, asi como tambien plantear el As-Is Scenario Mapping para evidenciar como esque llevar actualmente sus procesos. Tambien, realice el To-Be Scenario Mapping, evidenciando como es que nuestra solucion aborda la problematica por los cuales nuestros usuarios estan pasando. Idenficando asi correctamente las User Stories y Product Backlog.
       </td>   
     </tr>
     <tbody>
     <tr>
      <!--SEGUNDO CRITERIO DE STUDENT OUTCOME-->
       <td rowspan="17">
-        Crea un entorno colaborativo e 
-        inclusivo, establece metas, 
-        planifica tareas y cumple 
-        objetivos. 
+        3.c2. Comunica por escrito con efectividad a diferentes rangos de audiencia 
       </td>
        <!--ENTREGA TB1-->
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        Organicé reuniones semanales de sincronización donde cada miembro compartía sus avances y desafíos, fomentando un entorno donde todos podían contribuir con ideas y recibir retroalimentación constructiva. 
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+        El equipo logró crear un ambiente de trabajo colaborativo y estructurado mediante la combinación de herramientas de planificación efectivas, comunicación transparente y división equilibrada de responsabilidades. Los objetivos establecidos para el TB1 se cumplieron satisfactoriamente gracias a la definición clara de metas individuales y colectivas, seguimiento constante del progreso y adaptación ágil frente a obstáculos. Esta metodología de trabajo nos permitió completar el diseño estratégico de la arquitectura dentro del plazo establecido, manteniendo alta calidad en los entregables y asegurando la participación equitativa de todos los miembros. 
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
-      Texto  
+      <b>Rivadeneyra Ramos, Joaquin TB1:</b> <br> 
+      Realicé comunicaciones escritas efectivas para diferentes audiencias, incluyendo informes detallados sobre el progreso de WasteTrack para stakeholders y resúmenes ejecutivos que destacaban los objetivos clave y resultados obtenidos. Redacté documentación técnica para el equipo de desarrollo, asegurando que las funcionalidades y requisitos de la plataforma estuvieran claramente especificados.
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Valverde Lopez, Daniel TB1:</b> Comuniqué efectivamente con el equipo de trabajo sobre las tareas asignadas a cada uno, el estado de realización de las mismas y aporté ideas relacionadas al desarrollo de la solución.<br>
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Cortés Hidalgo, Nicolás TB1:</b> Cumplí con mis tareas asignadas (realización del capítulo 4 y entrevista a segmento objetivo funcionario) y me comuniqué con el equipo para informar de mis avances, para mantener una comunicación y trabajo en equipo efectivos.<br>
+       </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Avalos Santos, Anthony Piero TB1:</b><br>
+        Comunique efectivamente las tareas asignadas a mi persona cada que se cumplia. Ademas, esto nos sirvio para llevar un seguimiento de los avances del proyecto y poder plasmarlo exitosamente en un entorno colaborativo dentro de las reuniones que llevabamos a cabo semanalmente.
       </td>   
     </tr>
 </table>
