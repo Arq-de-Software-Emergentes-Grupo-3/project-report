@@ -55,6 +55,7 @@
 | 1.1     | 21/04/2025 | Alejandra Díaz      | Avance del capitulo 4                                                                                               |
 | 1.2     | 23/04/2025 | Daniel Valverde     | Se concluye del capitulo 4 y agrega entrevista                                                                      |
 | 1.3     | 23/04/2025 | Nicolás Cortés      | Primera parte del Capitulo 4 finalizada, se añadio entrevista                                                       |
+| 1.4    | 24/04/2025 | Anthony Avalos      | Se concluyo el capitulo 3, evidenciando correctamente la solucion a la problematica establecida                             |
 
 
 
@@ -334,8 +335,8 @@ ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Avalos Santos, Anthony Piero TB1:</b><br>
+        Me encargue de identificar los User Personas ,dando a conocer a realidad actual de cada uno de ello, asi como tambien plantear el As-Is Scenario Mapping para evidenciar como esque llevar actualmente sus procesos. Tambien, realice el To-Be Scenario Mapping, evidenciando como es que nuestra solucion aborda la problematica por los cuales nuestros usuarios estan pasando. Idenficando asi correctamente las User Stories y Product Backlog.
       </td>   
     </tr>
     <tbody>
@@ -377,8 +378,8 @@ ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Avalos Santos, Anthony Piero TB1:</b><br>
+        Comunique efectivamente las tareas asignadas a mi persona cada que se cumplia. Ademas, esto nos sirvio para llevar un seguimiento de los avances del proyecto y poder plasmarlo exitosamente en un entorno colaborativo dentro de las reuniones que llevabamos a cabo semanalmente.
       </td>   
     </tr>
 </table>
