@@ -74,13 +74,13 @@ Convertirnos en la plataforma líder de gestión de residuos urbanos, utilizando
         <tr>
             <!-- DATOS del integrante 5-->
             <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+            <img src="../assets/img/chapter-I/anthony.jpg" height="100" width="100">
+            <br>Anthony Piero Avalos Santos - U20211C596
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Soy Anthony Avalos, tengo 21 años, actualmente me encuentro en el 9no ciclo de mi carrera de Ingeniería de Software. Soy un apasionado por el desarrollo Fullstack, me considero una persona super proactiva y con ganas de seguir aprendiendo una nueva tecnología emergente. Me gusta el trabajo en equipo y colaborar con grande profesionales</td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Poseo  un amplio conocimiento en lenguajes de programacion. Por el lado del fronted, domino a un nivel avanzo Angular, y por el lado del backend, tengo un dominio avanzado de Java (Spring Boot) y Python (FastAPI). Tambien tengo concimiento de todo el entorno de Azure.</td>
         </tr>
     </body>
 </table>
