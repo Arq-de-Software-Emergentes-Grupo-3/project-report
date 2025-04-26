@@ -309,6 +309,65 @@ Resumen:
 Leandro nos dio a conocer su opinion de algunas de las preguntas planteadas por su conocimiento de estar relacionado con este tipo de empresarios de alquiler. Nos contó que los principales desafíos al administrar una flota de vehículos incluyen el mantenimiento regular, la gestión de reparaciones, la optimización de la rotación para maximizar la rentabilidad, y la actualización de los vehículos para cumplir con normativas y preferencias del cliente. Además mencionó que la rentabilidad de un vehículo se determina según su tasa de utilización, costos de mantenimiento, ingresos generados, y depreciación.
 </p>
 
+
+Entrevistado #4
+
+  ![Entrevista](../assets/img/chapter-II/entrevista_Lucero_Segmento1.png)
+
+●	Nombre: Lucero Smith
+
+●	Edad: 33
+
+●	Sexo: Femenino
+
+●	Residencia: Lima - San Isidro
+
+●	Entrevista:
+
+●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/Eczio0ychKFFnbnmkwUAzR8ByuNTUaSWBhrMmvAMPRdwGA?e=TUtLzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+●	Momento en el que inicia: 00:00
+
+●	Duración: 09:34 min
+
+●	Entrevistador: Avalos Santos Anthony Piero
+
+Resumen:
+<p align="justify">
+Lucero nos comenta que ella tiene muchos problemas con el tema de la recoleccion de residuos, ya que en su zona no existe un horario definido para la recoleccion de sus residuos. Constantemente tiene que ver contenendores desbordados y la acumulacion de residuos en la calle. Ella nos indica que le gustaria tener una plataforma que le permita ver el recorrido del camión recolector, y que le avise cuando el contenedor de su zona se encuentre lleno, para asi poder evitar la acumulacion de residuos en la calle. Ella nos indica que no tiene problemas con el uso de tecnologias, ya que es una persona muy activa en redes sociales. Le gustaria una plataforma facil e intuitiva para poder usarlo con facilidad.
+</p>
+
+
+
+Entrevistado #5
+
+  ![Entrevista](../assets/img/chapter-II/entrevista_lucia_segmento1.png)
+
+●	Nombre: Lucia Aliaga
+
+●	Edad: 27
+
+●	Sexo: Femenino
+
+●	Residencia: Lima - Los Olivos
+
+●	Entrevista:
+
+●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EbEgs3AlkHNHkcx8XZKSFtkBxIxvfz7RwxbPbRRER9GVlg?e=m5eIhg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+●	Momento en el que inicia: 00:00
+
+●	Duración: 09:30 min
+
+●	Entrevistador: Avalos Santos Anthony Piero
+
+Resumen:
+<p align="justify">
+Lucia nos comenta que ella vive en una zona donde constantemente tiene que ver contenedores desbordados por la acumulacion de residuos, especialmente en parques, donde la afluencia de personas es mayor. Nos comenta que tiene que estar en constante atencion para ver el camion recolector y poder sacar sus residuos, pero esto le esta generando muchos problemas en su dia a dia porque ella tiene que trabajar. Le gustria una aplicacion donde pueda ver el recorrido que tendra el camion y una hora estimada en la que llegara a su domicilio, asi ya no tendra que estar pendiente de la hora. Nos comenta tambien que le gustaria recibir informacion acerca de como separar correctamente los residuos, ya que no sabe si lo esta haciendo bien.
+</p>
+
+
+
 ### **2.2.3. Análisis de Entrevistas**
 
 Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
