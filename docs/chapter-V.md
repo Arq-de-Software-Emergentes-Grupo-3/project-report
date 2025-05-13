@@ -90,6 +90,14 @@ Para lograr aquello, empleamos un menú desplegable el cual muestra todas las fu
 
 ### 5.3.1. Landing Page Wireframe
 
+En esta sección, se muestra un esquema básico del diseño de la Landing Page, donde se resaltan las principales áreas de contenido, como el encabezado y las secciones de beneficios para ciudadanos y municipalidades. Este wireframe representa la estructura fundamental de la página sin detalles visuales específicos.
+
+<img src="../assets/img/chapter-V/landing-wireframe-1.png">  
+<img src="../assets/img/chapter-V/landing-wireframe-2.png">  
+<img src="../assets/img/chapter-V/landing-wireframe-3.png">  
+<img src="../assets/img/chapter-V/landing-wireframe-4.png"> 
+<img src="../assets/img/chapter-V/landing-wireframe-5.png"> 
+
 ### 5.3.2. Landing Page Mock-up
 
 El mock-up de la Landing Page ofrece una representación visual más avanzada del diseño final, incluyendo los colores, tipografía, imágenes y componentes interactivos. Este diseño está orientado a proporcionar una idea clara de cómo será la interfaz una vez implementada, reflejando la identidad visual de WasteTrack y su enfoque en la usabilidad.
