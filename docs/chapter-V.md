@@ -92,6 +92,14 @@ Para lograr aquello, empleamos un menú desplegable el cual muestra todas las fu
 
 ### 5.3.2. Landing Page Mock-up
 
+El mock-up de la Landing Page ofrece una representación visual más avanzada del diseño final, incluyendo los colores, tipografía, imágenes y componentes interactivos. Este diseño está orientado a proporcionar una idea clara de cómo será la interfaz una vez implementada, reflejando la identidad visual de WasteTrack y su enfoque en la usabilidad.
+
+<img src="../assets/img/chapter-V/landing-mockup-6.jpeg"> 
+<img src="../assets/img/chapter-V/landing-mockup-5.jpeg"> 
+<img src="../assets/img/chapter-V/landing-mockup-4.jpeg"> 
+<img src="../assets/img/chapter-V/landing-mockup-3.jpeg"> 
+<img src="../assets/img/chapter-V/landing-mockup-2.jpeg"> 
+
 ## 5.4. Applications UX/UI Design
 
 ### 5.4.1. Applications Wireframes
