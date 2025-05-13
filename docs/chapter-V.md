@@ -18,8 +18,18 @@ La gama de colores principal corresponde a tonalidades de blanco, que se relacio
 Los tonos de verde seleccionados para la aplicación se asocian a nuestro objetivo principal tanto como startup como aplicación: Asegurar un futuro mas limpio a través del cuidado del medio ambiente. El color verde siempre esta asociado a la vida y a la naturaleza, por lo que es una elección ideal para combinarlo con el color blanco y realizar un contraste entre ambos, mostrando así un balance entre el cuidado de la naturaleza manteniendo siempre formalidad y profesionalismo.
 
 **Lista de colores**  
+
+Gama primaria  
+<img src="../assets/img/chapter-V/gama-primaria.png"> 
+
+Gama secundaria  
+<img src="../assets/img/chapter-V/gama-secundaria.png">  
+
 **Tipografía**  
+<img src="../assets/img/chapter-V/tipografia.png">  
+
 **Botones e íconos**  
+<img src="../assets/img/chapter-V/botones.png">
 
 ## 5.2. Information Architecture
 
