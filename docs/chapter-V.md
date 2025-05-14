@@ -45,7 +45,7 @@ Este Bounded Context abarca todo lo relacionado con la representación, configur
 
 ### 5.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="../assets/img/chapter-VI/BC2-Diagram1.png" width="700"> 
+<img src="../assets/img/chapter-V/BC1-C4.png" width="700"> 
 
 ### 5.1.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -101,7 +101,7 @@ Este Bounded Context contiene el modelo y la lógica para planificar y recalcula
 
 ### 5.2.5. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="../assets/img/chapter-VI/BC1-Diagram1.png" width="700"> 
+<img src="../assets/img/chapter-V/BC2-C4.png" width="700"> 
 
 ### 5.2.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -157,7 +157,7 @@ Aquí se concentra todo lo relativo a la identidad, autenticación y autorizaci�
 
 ### 5.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="../assets/img/chapter-VI/BD3-Diagram1.png" width="700"> 
+<img src="../assets/img/chapter-V/BC3-C4.png" width="700"> 
 
 ### 5.3.6. Bounded Context Software Architecture Code Level Diagrams
 
