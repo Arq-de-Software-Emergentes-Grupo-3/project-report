@@ -1,15 +1,15 @@
-# Capítulo V: Solution UI/UX Design
+# Capítulo VI: Solution UI/UX Design
 
-## 5.1. Style Guidelines
+## 6.1. Style Guidelines
 
-### 5.1.1. General Style Guidelines
+### 6.1.1. General Style Guidelines
 Nuestro prototipo web fue diseñado en base a una paleta de colores moderna y vibrante, con tipografía clara y legible para que el usuario pueda tener la mejor experiencia posible. La paleta de colores principal se basa en tonos de blanco y grises claro; de este modo, todo el contenido de la página siempre es visible para el usuario, demostrando ademas un diseño limpio y ordenado, en el cual el usuario tiene acceso a todo el contenido disponible de la página de forma clara y sin inconvenientes.
 
 Para el color secundario, hemos elegido tonos de verde relacionados a la naturaleza, tales como verde claro o verde oliva. Esta gama de colores va a lineada con nuestro objetivo principal: Asegurar un mejor futuro para las próximas generaciones a través de mejorar el estado del medio ambiente y la reducción de desperdicios.
 
 La tipografía utilizada en nuestro diseño es del tipo Roboto, que asegura un texto siempre legible y claro para todo tipo de usuario, diferenciando el tamaño y peso de fuente para lograr una jerarquía adecuada entre los títulos, subtítulos, contenido de páginas y botones. Para el color de texto, seleccionamos el color negro simple, permitiendo claridad total de todo el contenido de la página para su lectura apropiada por parte del usuario, con ciertas variaciones en el caso de los botones, donde, en caso de tener un color de fondo verde oscuro, el color del texto pasa a ser blanco. El color de tipografía, asi como el tamaño, peso y estilo de fuente aseguran una legilibilidad total por parte del usuario, evitando que se confunda en la lectura o analisís de algún elemento y/o apartado.
 
-### 5.1.2. Web, Mobile and IoT Style Guidelines
+### 6.1.2. Web, Mobile and IoT Style Guidelines
 
 **Color primario**  
 La gama de colores principal corresponde a tonalidades de blanco, que se relacionan principalmente a limpieza y pulcritud, ambos términos alineados a nuestra visión y misión. La gama va transicionando a tonos grises claros, donde la tonalidad mas clara se asocia a la sofisticación, mientras que la más oscura va alineada con la formalidad y el profesionalismo. Esta gama nos permite mostrar un diseño limpio, pero procurando siempre formalidad, claridad y transparencia.
@@ -31,9 +31,9 @@ Gama secundaria
 **Botones e íconos**  
 <img src="../assets/img/chapter-V/botones.png">
 
-## 5.2. Information Architecture
+## 6.2. Information Architecture
 
-### 5.2.1. Organization Systems
+### 6.2.1. Organization Systems
 
 **Jerarquía Visual**  
 WasteTrack ha sido diseñada con una jerarquía visual que facilita la interacción del usuario. Los elementos principales, como botones de acción e íconos, están ubicados de forma prominente, permitiendo a los usuarios ubicar rápidamente la funcionalidad deseada. El uso de tamaños diferenciadores para títulos y subtítulos, así como una jerarquía de colores según el tipo de botón y la funcionalidad a la que dirige, permite que estos se destaquen entre el resto del contenido de la aplicación.
@@ -50,9 +50,9 @@ La combinación de los colores principales, que están basados en tonos de blanc
 **Botones e Íconos**  
 Los botones e íconos, tales como el de iniciar sesión y el de reporte de contenedor en el caso de los ciudadanos, estan diseñados para ser fácilmente ubicables por el usuario, pues los botones siempre están presentes para ejecutar procesos fundamentales de la aplicación. Todos los botones tienen bordes suaves y colores brillantes, elementos escenciales para la modernidad del diseño y la fácil identificación por parte del usuario respectivamente. Entre los íconos principales destacan el de notificaciones y el de perfil de usuario, usando la campana y la persona respectivamente, permitiendo que el usuario sepa inmediatamente a que funcionalidad hacen referencia.
 
-### 5.2.2. Labeling Systems
+### 6.2.2. Labeling Systems
 
-### 5.2.3. SEO Tags and Meta Tags
+### 6.2.3. SEO Tags and Meta Tags
 ```<meta charset="UTF-8">```  
 
 ```<meta name="author" content="SmartWaste Team">```  
@@ -74,21 +74,21 @@ Además:
 - Incrementan el CTR (tasa de clics) al mostrar títulos y descripciones claras y atractivas.
 - Favorecen la difusión en redes sociales, mostrando una vista previa coherente y profesional.
 
-### 5.2.4. Searching Systems
+### 6.2.4. Searching Systems
 
 El sistema de búsqueda de WasteTrack esta diseñado para que el usuario, sea autoridad municipal o ciudadano, pueda encontrar todas las funcionalidades de forma rápida. Esto lo conseguimos a traves de un menú lateral, en el cual, el usuario puede elegir la funcionalidad a la cual este desea acceder, según su rol, y la aplicación, inmediatamente, lo llevará al apartado seleccionado.
 
 En el caso de las autoridades municipales, disponen de un mapa en tiempo real donde pueden localizar de forma rápida todos los contendores correspondientes al distrito bajo el cual se esta administrando. De esta forma conseguimos que el funcionario pueda localizar un contenedor en específico de forma rápida y accesible.
 
-### 5.2.5. Navigation Systems
+### 6.2.5. Navigation Systems
 
 El sistema de navegación de WasteTrack busca que el usuario pueda acceder de forma rápida a todas las funcionalidades de la aplicación, proporcionando una experiencia fluida, intuitiva y estructurada.
 
 Para lograr aquello, empleamos un menú desplegable el cual muestra todas las funcionalidades, según el rol del usuario, para que el mismo pueda ubicar rápidamente la funcionalidad deseada y acceder a ella inmediatamente. Adicional a ello, cada una de las pantallas disponen de 2 botones tanto de perfil de usuario como de cierre de sesión; el usuario, además, dispone siempre de un botón de reporte de contenedor, con el que puede acceder al formulario de reporte de contenedor de forma inmediata, maximizando la experiencia de usuario.
 
-## 5.3. Landing Page UI Design
+## 6.3. Landing Page UI Design
 
-### 5.3.1. Landing Page Wireframe
+### 6.3.1. Landing Page Wireframe
 
 En esta sección, se muestra un esquema básico del diseño de la Landing Page, donde se resaltan las principales áreas de contenido, como el encabezado y las secciones de beneficios para ciudadanos y municipalidades. Este wireframe representa la estructura fundamental de la página sin detalles visuales específicos.
 
@@ -98,7 +98,7 @@ En esta sección, se muestra un esquema básico del diseño de la Landing Page, 
 <img src="../assets/img/chapter-V/landing-wireframe-4.png"> 
 <img src="../assets/img/chapter-V/landing-wireframe-5.png"> 
 
-### 5.3.2. Landing Page Mock-up
+### 6.3.2. Landing Page Mock-up
 
 El mock-up de la Landing Page ofrece una representación visual más avanzada del diseño final, incluyendo los colores, tipografía, imágenes y componentes interactivos. Este diseño está orientado a proporcionar una idea clara de cómo será la interfaz una vez implementada, reflejando la identidad visual de WasteTrack y su enfoque en la usabilidad.
 
@@ -108,14 +108,14 @@ El mock-up de la Landing Page ofrece una representación visual más avanzada de
 <img src="../assets/img/chapter-V/landing-mockup-3.jpeg"> 
 <img src="../assets/img/chapter-V/landing-mockup-2.jpeg"> 
 
-## 5.4. Applications UX/UI Design
+## 6.4. Applications UX/UI Design
 
-### 5.4.1. Applications Wireframes
+### 6.4.1. Applications Wireframes
 
-### 5.4.2. Applications Wireflow Diagrams
+### 6.4.2. Applications Wireflow Diagrams
 
-### 5.4.3. Applications Mock-ups
+### 6.4.3. Applications Mock-ups
 
-### 5.4.4. Applications User Flow Diagrams
+### 6.4.4. Applications User Flow Diagrams
 
-## 5.5. Applications Prototyping
+## 6.5. Applications Prototyping
