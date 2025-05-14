@@ -27,13 +27,17 @@
 
 ### 5.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="../assets/img/chapter-V/gama-primaria.png"> 
+<img src="../assets/img/chapter-VI/BoundedContext1-Diagram1.png"> 
 
 ### 5.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.1.6.1 Bounded Context Domain Layer Class Diagrams
 
+<img src="../assets/img/chapter-VI/BoundedContext1-Diagram2.png" width="700"> 
+
 #### 5.1.6.2 Bounded Context Database Design Diagrams
+
+<img src="../assets/img/chapter-VI/BoundedContext1-Diagram3.png" width="700"> 
 
 
 ## 5.2 Bounded Context: Optimización de Rutas
@@ -63,12 +67,17 @@
 
 ### 5.2.5. Bounded Context Software Architecture Component Level Diagrams
 
+<img src="../assets/img/chapter-VI/BoundedContext2-Diagram1.png" width="700"> 
+
 ### 5.2.6. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.2.6.1 Bounded Context Domain Layer Class Diagrams
 
+<img src="../assets/img/chapter-VI/BoundedContext2-Diagram2.png" width="700"> 
+
 #### 5.2.6.2 Bounded Context Database Design Diagrams
 
+<img src="../assets/img/chapter-VI/BoundedContext2-Diagram3.png" width="700"> 
 
 ## 5.3 Bounded Context: Gestión de Usuarios
 
@@ -97,8 +106,11 @@
 
 ### 5.3.5. Bounded Context Software Architecture Component Level Diagrams
 
+
 ### 5.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.3.6.1 Bounded Context Domain Layer Class Diagrams
 
+
 #### 5.3.6.2 Bounded Context Database Design Diagrams
+
