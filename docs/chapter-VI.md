@@ -135,6 +135,21 @@ Reporte de Contenedor Desbordado
 
 ### 6.4.2. Applications Wireflow Diagrams
 
+Flujo 1: Inicio de Sesión - Registro de Usuario
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-1.png" width="800"> 
+
+Flujo 2: Ajuste de Datos de Perfil
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-2.png" width="800"> 
+
+Flujo 3: Datos y Ajuste del Contenedor Especificado
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-3.png" width="800"> 
+
+Flujo 4: Visualización de Rutas de los Camiones Recolectores
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-4.png" width="800"> 
+
+Flujo 5: Reporte de Contenedor Desbordado
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-5.png" width="800"> 
+
 ### 6.4.3. Applications Mock-ups
 
 ### 6.4.4. Applications User Flow Diagrams
