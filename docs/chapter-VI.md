@@ -112,6 +112,27 @@ El mock-up de la Landing Page ofrece una representación visual más avanzada de
 
 ### 6.4.1. Applications Wireframes
 
+Inicio de Sesión
+<img src="../assets/img/chapter-VI/Wireframe-2.png" width="900"> 
+
+Registro de Usuario
+<img src="../assets/img/chapter-VI/Wireframe-1.png" width="900"> 
+
+Ajustes de Usuario - Configuración
+<img src="../assets/img/chapter-VI/Wireframe-3.png" width="900"> 
+
+Registro de Desperdicios
+<img src="../assets/img/chapter-VI/Wireframe-4.png" width="900"> 
+
+Mapeo de Rutas de Camiones
+<img src="../assets/img/chapter-VI/Wireframe-5.png" width="900"> 
+
+Estado de Contenedor
+<img src="../assets/img/chapter-VI/Wireframe-6.png" width="900"> 
+
+Reporte de Contenedor Desbordado
+<img src="../assets/img/chapter-VI/Wireframe-7.png" width="900"> 
+
 ### 6.4.2. Applications Wireflow Diagrams
 
 ### 6.4.3. Applications Mock-ups
