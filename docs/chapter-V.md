@@ -27,6 +27,8 @@
 
 ### 5.1.5. Bounded Context Software Architecture Component Level Diagrams
 
+<img src="../assets/img/chapter-V/gama-primaria.png"> 
+
 ### 5.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.1.6.1 Bounded Context Domain Layer Class Diagrams
