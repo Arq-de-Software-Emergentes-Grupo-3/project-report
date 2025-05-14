@@ -2,6 +2,8 @@
 
 ## 5.1 Bounded Context: Gestión de contenedores
 
+Este Bounded Context abarca todo lo relacionado con la representación, configuración y estado de los contenedores de residuos. Se encarga de la modelización de la entidad Contenedor (con su ubicación, umbral de llenado y tipo de residuo), las reglas de negocio para actualizar su estado (por ejemplo, marcar un contenedor como “lleno”) y la persis­tencia de esa información. Aquí se definen los límites claros de cómo se crean, modifican y validan los contenedores, así como sus interacciones con servicios externos (p.ej. geocodificación).
+
 ### 5.1.1. Domain Layer
 
 - **Entities:** Contenedor, Ubicación, TipoResiduo.
@@ -42,6 +44,8 @@
 
 ## 5.2 Bounded Context: Optimización de Rutas
 
+Este Bounded Context contiene el modelo y la lógica para planificar y recalcular rutas de recolección eficientes. Define la entidad Ruta con sus paradas, ventanas de tiempo y criterios de prioridad, y utiliza datos de tráfico en tiempo real y servicios geoespaciales para generar itinerarios óptimos. Su frontera separa la lógica de enrutamiento de la manipulación de datos de sensores o la gestión de usuarios.
+
 ### 5.2.1. Domain Layer
 
 - **Entities:** RutaRecolección, Camión.
@@ -81,6 +85,8 @@
 
 ## 5.3 Bounded Context: Gestión de Usuarios
 
+Aquí se concentra todo lo relativo a la identidad, autenticación y autorización de los actores del sistema (municipales, operarios y ciudadanos). Modela las entidades Usuario y Rol, gestiona el registro, el inicio de sesión y la asignación de permisos, e integra proveedores de identidad externos (OAuth2, LDAP). Su límite garantiza que las políticas de acceso se apliquen de forma consistente en toda la plataforma.
+
 ### 5.3.1. Domain Layer
 
 - **Entities:** Usuario, Rol.
@@ -106,11 +112,14 @@
 
 ### 5.3.5. Bounded Context Software Architecture Component Level Diagrams
 
+<img src="../assets/img/chapter-VI/BD3-Diagram1.png" width="700"> 
 
 ### 5.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 #### 5.3.6.1 Bounded Context Domain Layer Class Diagrams
 
+<img src="../assets/img/chapter-VI/BD3-Diagram2.png" width="700"> 
 
 #### 5.3.6.2 Bounded Context Database Design Diagrams
 
+<img src="../assets/img/chapter-VI/BoundedContext3-Diagram3.png" width="700"> 
