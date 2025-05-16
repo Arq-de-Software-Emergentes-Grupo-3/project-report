@@ -56,7 +56,7 @@
 | 1.2     | 23/04/2025 | Daniel Valverde     | Se concluye del capitulo 4 y agrega entrevista                                                                      |
 | 1.3     | 23/04/2025 | Nicolás Cortés      | Primera parte del Capitulo 4 finalizada, se añadio entrevista                                                       |
 | 1.4    | 24/04/2025 | Anthony Avalos      | Se concluyo el capitulo 3, evidenciando correctamente la solucion a la problematica establecida                             |
-
+| 1.5    | 16/05/2025 | Alejandra Díaz      | Se concluyen los capitulos para la entrega parcial                             |
 
 
 ### Project Report Collaboration Insights
@@ -75,14 +75,6 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
 
 - main
 - develop
-
-* #### Entregable TB1
-
-A continuación se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro 
-primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada
-miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de 
-líneas de código que se han modificado en cada uno de los commits.
-
 
 ## Contenido 
 
@@ -306,37 +298,47 @@ ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Lideré la elaboración del EventStorming y el Context Mapping para el sistema WasteTrack, facilitando sesiones colaborativas donde identificamos bounded contexts, relaciones y patrones de integración. Coordiné la creación de los diagramas en Miro y garanticé que todas las perspectivas del equipo fueran consideradas durante el proceso de diseño estratégico. 
+        Lideré la elaboración del EventStorming y el Context Mapping para el sistema WasteTrack, facilitando sesiones colaborativas donde identificamos bounded contexts, relaciones y patrones de integración. Coordiné la creación de los diagramas en Miro y garanticé que todas las perspectivas del equipo fueran consideradas durante el proceso de diseño estratégico. <br>
+        <b>Díaz Villacrez, María Alejandra TP:</b> 
+        Dirigí sesiones de diseño UX/UI para WasteTrack, presentando wireframes y mockups a diferentes stakeholders. Facilité la comunicación entre el equipo técnico y los usuarios durante las entrevistas de validación, adaptando la terminología técnica para asegurar que todos los participantes comprendieran claramente las funcionalidades y el valor del producto.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        El equipo demostró un liderazgo efectivo y distribuido durante el diseño estratégico de la arquitectura de WasteTrack. Cada miembro asumió responsabilidades según sus fortalezas, permitiendo una colaboración fluida en la elaboración del EventStorming, identificación de bounded contexts y definición del Context Mapping. Esta aproximación distribuyó naturalmente el liderazgo según las diferentes etapas del proceso, resultando en un diseño de arquitectura cohesivo que responde efectivamente a las necesidades de los stakeholders y a los atributos de calidad definidos. 
+        El equipo demostró un liderazgo efectivo y distribuido durante el diseño estratégico de la arquitectura de WasteTrack. Cada miembro asumió responsabilidades según sus fortalezas, permitiendo una colaboración fluida en la elaboración del EventStorming, identificación de bounded contexts y definición del Context Mapping. Esta aproximación distribuyó naturalmente el liderazgo según las diferentes etapas del proceso, resultando en un diseño de arquitectura cohesivo que responde efectivamente a las necesidades de los stakeholders y a los atributos de calidad definidos. <br>
+        <b>CONCLUSIÓN DEL ENTREGABLE TP</b><br>
+        Durante el entregable TP, el equipo demostró una notable mejora en la comunicación oral con diferentes audiencias. Las presentaciones de wireframes, prototipos y arquitectura del sistema fueron adaptadas eficazmente según el público objetivo, desde usuarios finales hasta stakeholders técnicos. Las entrevistas de validación y sesiones de feedback permitieron refinar el producto basado en necesidades reales, evidenciando la capacidad del equipo para establecer una comunicación bidireccional efectiva que resultó en ajustes oportunos al diseño y funcionalidades de WasteTrack.
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
       <b>Rivadeneyra Ramos, Joaquin TB1:</b> <br> 
-      Realicé presentaciones orales a equipos internos y stakeholders de WasteTrack, adaptando el lenguaje según el público. Expresé claramente los beneficios de la plataforma durante entrevistas con usuarios, explicando cómo optimiza la recolección de residuos y fomenta la participación ciudadana. También presenté el análisis de segmentos objetivo, la competencia y las estrategias del proyecto, utilizando herramientas visuales para asegurar la comprensión y alineación de todos los involucrados. 
+      Realicé presentaciones orales a equipos internos y stakeholders de WasteTrack, adaptando el lenguaje según el público. Expresé claramente los beneficios de la plataforma durante entrevistas con usuarios, explicando cómo optimiza la recolección de residuos y fomenta la participación ciudadana. También presenté el análisis de segmentos objetivo, la competencia y las estrategias del proyecto, utilizando herramientas visuales para asegurar la comprensión y alineación de todos los involucrados. <br>
+      <b>Rivadeneyra Ramos, Joaquin TP:</b> <br> 
+      Realicé presentaciones técnicas sobre la arquitectura del software y explicaciones detalladas sobre la implementación de microservicios para WasteTrack. Durante las reuniones de validación, comuniqué efectivamente las ventajas del enfoque de dominio y las decisiones arquitectónicas a stakeholders con diferentes niveles de conocimiento técnico, utilizando analogías y ejemplos prácticos para facilitar la comprensión.
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
         <b>Valverde Lopez, Daniel TB1</b>: Realicé una entrevista al segmento objetivo de ciudadanos, a partir de la comunicación efectiva pude entender la problemática que enfrenta y cómo la solución propuesta genera una buena expectativa frente al usuario, además elaboré los diagramas de arquitectura del software los cuales nos ayudarán para entender a distintos niveles de especificación cómo se relacionan entre sí los distintos artefactos que componen la solución.<br>
+        <b>Valverde Lopez, Daniel TP:</b> Conduje sesiones de demostración de los prototipos desarrollados, explicando las características y funcionalidades a grupos de usuarios potenciales. Utilicé un lenguaje claro y adaptado a audiencias no técnicas para presentar el flujo de navegación y los beneficios del sistema, recogiendo feedback valioso para iteraciones futuras del producto.<br>
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
       <b>Cortés Hidalgo, Nicolás TB1:</b> Me encargué de la primera del Capítulo IV, que incluye apartados principalmente relacionados a la arquitectura del sistema a desarrollar, calidad de los mismos, y restricciones que cada una de las tecnologías a utilizar puedan llegar a tener en el transcurso del desarrollo. Además de ello, realize una entrevista a un funcionario publico de gestión de residuos urbanos, permitiéndome entender mucho mejor la problemática que estamos tratando de resolver.<br>
+      <b>Cortés Hidalgo, Nicolás TP:</b> Lideré discusiones técnicas sobre la implementación del backend y la estructura de datos para WasteTrack. Durante las sesiones de retrospectiva, presenté análisis sobre los desafíos encontrados y las soluciones implementadas, facilitando la comprensión de aspectos complejos mediante diagramas y ejemplos contextualizados para diferentes audiencias dentro del equipo.<br>
        </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
         <b>Avalos Santos, Anthony Piero TB1:</b><br>
-        Me encargue de identificar los User Personas ,dando a conocer a realidad actual de cada uno de ello, asi como tambien plantear el As-Is Scenario Mapping para evidenciar como esque llevar actualmente sus procesos. Tambien, realice el To-Be Scenario Mapping, evidenciando como es que nuestra solucion aborda la problematica por los cuales nuestros usuarios estan pasando. Idenficando asi correctamente las User Stories y Product Backlog.
+        Me encargue de identificar los User Personas ,dando a conocer a realidad actual de cada uno de ello, asi como tambien plantear el As-Is Scenario Mapping para evidenciar como esque llevar actualmente sus procesos. Tambien, realice el To-Be Scenario Mapping, evidenciando como es que nuestra solucion aborda la problematica por los cuales nuestros usuarios estan pasando. Idenficando asi correctamente las User Stories y Product Backlog.<br>
+        <b>Avalos Santos, Anthony Piero TP:</b><br>
+        Facilité workshops de validación de User Stories con representantes de los segmentos objetivo, utilizando terminología adaptada para mantener la claridad en la comunicación. Presenté los avances de implementación del frontend durante las revisiones de sprint, demostrando las funcionalidades desarrolladas y explicando cómo estas resuelven los problemas identificados en la fase de análisis.
       </td>   
     </tr>
     <tbody>
@@ -349,37 +351,47 @@ ABET 3: Capacidad de comunicarse efectivamente con un rango de audiencias
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Organicé reuniones semanales de sincronización donde cada miembro compartía sus avances y desafíos, fomentando un entorno donde todos podían contribuir con ideas y recibir retroalimentación constructiva. 
+        Organicé reuniones semanales de sincronización donde cada miembro compartía sus avances y desafíos, fomentando un entorno donde todos podían contribuir con ideas y recibir retroalimentación constructiva. <br>
+        <b>Díaz Villacrez, María Alejandra TP:</b> 
+        Desarrollé la documentación de la arquitectura UI/UX con wireframes y mockups detallados, asegurando que todos los componentes visuales estuvieran claramente documentados para el equipo de desarrollo. Redacté informes de avance del sprint con métricas clave y logros significativos, adaptando el nivel técnico según la audiencia destinataria.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        El equipo logró crear un ambiente de trabajo colaborativo y estructurado mediante la combinación de herramientas de planificación efectivas, comunicación transparente y división equilibrada de responsabilidades. Los objetivos establecidos para el TB1 se cumplieron satisfactoriamente gracias a la definición clara de metas individuales y colectivas, seguimiento constante del progreso y adaptación ágil frente a obstáculos. Esta metodología de trabajo nos permitió completar el diseño estratégico de la arquitectura dentro del plazo establecido, manteniendo alta calidad en los entregables y asegurando la participación equitativa de todos los miembros. 
+        El equipo logró crear un ambiente de trabajo colaborativo y estructurado mediante la combinación de herramientas de planificación efectivas, comunicación transparente y división equilibrada de responsabilidades. Los objetivos establecidos para el TB1 se cumplieron satisfactoriamente gracias a la definición clara de metas individuales y colectivas, seguimiento constante del progreso y adaptación ágil frente a obstáculos. Esta metodología de trabajo nos permitió completar el diseño estratégico de la arquitectura dentro del plazo establecido, manteniendo alta calidad en los entregables y asegurando la participación equitativa de todos los miembros.<br>
+        <b>CONCLUSIÓN DEL ENTREGABLE TP</b><br>
+        El equipo demostró excelencia en la comunicación escrita durante la fase TP, elaborando documentación técnica precisa, guías de usuario intuitivas y reportes de avance estructurados. La calidad de los entregables escritos facilitó la implementación del sistema por parte del equipo técnico y mejoró la comprensión del producto para stakeholders no técnicos. La documentación bien organizada de requisitos, decisiones de diseño y guías de implementación contribuyó significativamente al progreso efectivo del proyecto, estableciendo bases sólidas para las etapas futuras de desarrollo de WasteTrack. 
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
       <b>Rivadeneyra Ramos, Joaquin TB1:</b> <br> 
-      Realicé comunicaciones escritas efectivas para diferentes audiencias, incluyendo informes detallados sobre el progreso de WasteTrack para stakeholders y resúmenes ejecutivos que destacaban los objetivos clave y resultados obtenidos. Redacté documentación técnica para el equipo de desarrollo, asegurando que las funcionalidades y requisitos de la plataforma estuvieran claramente especificados.
+      Realicé comunicaciones escritas efectivas para diferentes audiencias, incluyendo informes detallados sobre el progreso de WasteTrack para stakeholders y resúmenes ejecutivos que destacaban los objetivos clave y resultados obtenidos. Redacté documentación técnica para el equipo de desarrollo, asegurando que las funcionalidades y requisitos de la plataforma estuvieran claramente especificados.<br>
+      <b>Rivadeneyra Ramos, Joaquin TP:</b> <br> 
+      Elaboré documentación técnica detallada sobre la arquitectura de microservicios implementada, incluyendo diagramas y especificaciones para el equipo de desarrollo. Redacté reportes ejecutivos para stakeholders con síntesis claras de los avances técnicos, transformando conceptos complejos en explicaciones accesibles que destacaban el valor empresarial de las implementaciones realizadas.
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
         <b>Valverde Lopez, Daniel TB1:</b> Comuniqué efectivamente con el equipo de trabajo sobre las tareas asignadas a cada uno, el estado de realización de las mismas y aporté ideas relacionadas al desarrollo de la solución.<br>
+        <b>Valverde Lopez, Daniel TP:</b> Creé manuales de usuario para las aplicaciones web y móvil, utilizando un lenguaje claro y recursos visuales para facilitar la comprensión de las funcionalidades. Documenté los procesos de deployment y configuración del entorno para el equipo técnico, con instrucciones paso a paso y soluciones a problemas comunes que surgieron durante el desarrollo.<br>
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
       <b>Cortés Hidalgo, Nicolás TB1:</b> Cumplí con mis tareas asignadas (realización del capítulo 4 y entrevista a segmento objetivo funcionario) y me comuniqué con el equipo para informar de mis avances, para mantener una comunicación y trabajo en equipo efectivos.<br>
+      <b>Cortés Hidalgo, Nicolás TP:</b> Documenté las APIs desarrolladas con especificaciones claras, ejemplos de uso y descripciones de endpoints para facilitar la integración por parte de otros desarrolladores. Redacté informes de análisis de rendimiento con recomendaciones técnicas, balanceando el detalle técnico con explicaciones contextuales para asegurar que todos los miembros del equipo comprendieran las implicaciones.<br>
        </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
         <b>Avalos Santos, Anthony Piero TB1:</b><br>
-        Comunique efectivamente las tareas asignadas a mi persona cada que se cumplia. Ademas, esto nos sirvio para llevar un seguimiento de los avances del proyecto y poder plasmarlo exitosamente en un entorno colaborativo dentro de las reuniones que llevabamos a cabo semanalmente.
+        Comunique efectivamente las tareas asignadas a mi persona cada que se cumplia. Ademas, esto nos sirvio para llevar un seguimiento de los avances del proyecto y poder plasmarlo exitosamente en un entorno colaborativo dentro de las reuniones que llevabamos a cabo semanalmente.<br>
+        <b>Avalos Santos, Anthony Piero TP:</b><br>
+        Elaboré la documentación de pruebas de usuario y resultados de validación, sintetizando feedback cualitativo en recomendaciones accionables para el equipo. Desarrollé guías de estilo y patrones de diseño para mantener la consistencia en la interfaz de usuario, asegurando que todos los miembros del equipo de frontend tuvieran referencias claras durante la implementación.
       </td>   
     </tr>
 </table>

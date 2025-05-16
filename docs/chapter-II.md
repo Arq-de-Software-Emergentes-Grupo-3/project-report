@@ -147,7 +147,7 @@ Nelson Serrano
 ●	Nivel socioeconómico: Clase B
 Entrevista:
 
-●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1xfp88xcLjj6Mrp3IOyHWl4fSg7WGsBDU/view?usp=sharing)
+●	Link: https://shorturl.at/Wl35Y
 
 ●	Momento en el que inicia: 0:00
 
@@ -174,9 +174,9 @@ Nombre: Leonardo Soto Tagle
 
 Entrevista:
 
-●	Link: [Click para ver entrevista](https://youtu.be/TDk6NwubPeU)
+●	Link: https://shorturl.at/Wl35Y
 
-●	Momento en el que inicia: 0:00
+●	Momento en el que inicia: 5:00
 
 ●	Duración: 7:08
 
@@ -199,9 +199,9 @@ Entrevistado #3
 
 ●	Entrevista:
 
-●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ERge36l0G5lAgx48cxEK3cAB5E-irHI-V5akPQDUYP6NdA?e=babxer&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+●	Link: https://shorturl.at/Wl35Y
 
-●	Momento en el que inicia: 
+●	Momento en el que inicia: 12:00
 
 ●	Duración: 4:30 min
 
@@ -229,11 +229,8 @@ Diego Cantoral
 
 Entrevista:
 
-●	Link: 
+●	Link: https://shorturl.at/Wl35Y
 
-●	Momento en el que inicia: 
-
-●	Duración: 
 
 ●	Entrevistador: Valverde Lopez, Josue Daniel
 
@@ -256,9 +253,9 @@ Entrevistado #2
 
 ●	Entrevista:
 
-●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/Eczio0ychKFFnbnmkwUAzR8ByuNTUaSWBhrMmvAMPRdwGA?e=TUtLzw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+●	Link: https://shorturl.at/Wl35Y
 
-●	Momento en el que inicia: 00:00
+●	Momento en el que inicia: 16:26
 
 ●	Duración: 09:34 min
 
@@ -283,9 +280,9 @@ Entrevistado #3
 
 ●	Entrevista:
 
-●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EbEgs3AlkHNHkcx8XZKSFtkBxIxvfz7RwxbPbRRER9GVlg?e=m5eIhg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+●	Link: https://shorturl.at/Wl35Y
 
-●	Momento en el que inicia: 00:00
+●	Momento en el que inicia: 26:00
 
 ●	Duración: 09:30 min
 
