@@ -1,91 +1,157 @@
-# Capítulo VI: Product Implementation, Validation & Deployment
+# Capítulo VI: Solution UI/UX Design
 
-## 6.1. Software Configuration Management
+## 6.1. Style Guidelines
 
-### 6.1.1. Software Development Environment Configuration
+### 6.1.1. General Style Guidelines
+Nuestro prototipo web fue diseñado en base a una paleta de colores moderna y vibrante, con tipografía clara y legible para que el usuario pueda tener la mejor experiencia posible. La paleta de colores principal se basa en tonos de blanco y grises claro; de este modo, todo el contenido de la página siempre es visible para el usuario, demostrando ademas un diseño limpio y ordenado, en el cual el usuario tiene acceso a todo el contenido disponible de la página de forma clara y sin inconvenientes.
 
-### 6.1.2. Source Code Management
+Para el color secundario, hemos elegido tonos de verde relacionados a la naturaleza, tales como verde claro o verde oliva. Esta gama de colores va a lineada con nuestro objetivo principal: Asegurar un mejor futuro para las próximas generaciones a través de mejorar el estado del medio ambiente y la reducción de desperdicios.
 
-### 6.1.3. Source Code Style Guide & Conventions
+La tipografía utilizada en nuestro diseño es del tipo Roboto, que asegura un texto siempre legible y claro para todo tipo de usuario, diferenciando el tamaño y peso de fuente para lograr una jerarquía adecuada entre los títulos, subtítulos, contenido de páginas y botones. Para el color de texto, seleccionamos el color negro simple, permitiendo claridad total de todo el contenido de la página para su lectura apropiada por parte del usuario, con ciertas variaciones en el caso de los botones, donde, en caso de tener un color de fondo verde oscuro, el color del texto pasa a ser blanco. El color de tipografía, asi como el tamaño, peso y estilo de fuente aseguran una legilibilidad total por parte del usuario, evitando que se confunda en la lectura o analisís de algún elemento y/o apartado.
 
-### 6.1.4. Software Deployment Configuration
+### 6.1.2. Web, Mobile and IoT Style Guidelines
 
-## 6.2. Landing Page, Services & Applications Implementation
+**Color primario**  
+La gama de colores principal corresponde a tonalidades de blanco, que se relacionan principalmente a limpieza y pulcritud, ambos términos alineados a nuestra visión y misión. La gama va transicionando a tonos grises claros, donde la tonalidad mas clara se asocia a la sofisticación, mientras que la más oscura va alineada con la formalidad y el profesionalismo. Esta gama nos permite mostrar un diseño limpio, pero procurando siempre formalidad, claridad y transparencia.
 
-### 6.2.1. Sprint 1
+**Color secundario**  
+Los tonos de verde seleccionados para la aplicación se asocian a nuestro objetivo principal tanto como startup como aplicación: Asegurar un futuro mas limpio a través del cuidado del medio ambiente. El color verde siempre esta asociado a la vida y a la naturaleza, por lo que es una elección ideal para combinarlo con el color blanco y realizar un contraste entre ambos, mostrando así un balance entre el cuidado de la naturaleza manteniendo siempre formalidad y profesionalismo.
 
-#### 6.2.1.1. Sprint Planning 1
+**Lista de colores**  
 
-#### 6.2.1.2. Aspect Leaders and Collaborators
+Gama primaria  
+<img src="../assets/img/chapter-V/gama-primaria.png"> 
 
-#### 6.2.1.3. Sprint Backlog 1
+Gama secundaria  
+<img src="../assets/img/chapter-V/gama-secundaria.png">  
 
-#### 6.2.1.4. Development Evidence for Sprint Review
+**Tipografía**  
+<img src="../assets/img/chapter-V/tipografia.png">  
 
-#### 6.2.1.5. Testing Suite Evidence for Sprint Review
+**Botones e íconos**  
+<img src="../assets/img/chapter-V/botones.png">
 
-#### 6.2.1.6. Execution Evidence for Sprint Review
+## 6.2. Information Architecture
 
-#### 6.2.1.7. Services Documentation Evidence for Sprint Review
+### 6.2.1. Organization Systems
 
-#### 6.2.1.8. Software Deployment Evidence for Sprint Review
+**Jerarquía Visual**  
+WasteTrack ha sido diseñada con una jerarquía visual que facilita la interacción del usuario. Los elementos principales, como botones de acción e íconos, están ubicados de forma prominente, permitiendo a los usuarios ubicar rápidamente la funcionalidad deseada. El uso de tamaños diferenciadores para títulos y subtítulos, así como una jerarquía de colores según el tipo de botón y la funcionalidad a la que dirige, permite que estos se destaquen entre el resto del contenido de la aplicación.
 
-#### 6.2.1.9. Team Collaboration Insights during Sprint
+**Jerarquía Tipográfica**  
+El estilo de fuente elegido tanto para los títulos como para el resto del contenido es Roboto, asegura legibilidad, fluidez y siguiendo un esquema coherente. Para los textos de mayor relevancia, tales como títulos y subtítulos, se dipone de un tamaño y peso de fuente superior con respecto al contenido, lo que permite identificar palabras clave rápidamente por parte del usuario.
 
-## 6.3. Validation Interviews
+**Alineación**  
+El contenido principal de la aplicación está alineado, principalmente, para el lado izquierdo, de forma que el usuario puede realizar una correcta lectura del contenido y funcionalidades a las que desea acceder. La disposición vértical es centrada, según el contenedor donde se encuentre el elemento/contenido, permitiendo poder visualizarlo de forma correcta al no encontrarse pegado a ningún tipo de fondo y/o contenido adicional. Todos los botones tienen el contenido de su texto centrado, asegurando pulcritud y uniformidad.
 
-### 6.3.1. Diseño de Entrevistas
+**Color y Contraste**  
+La combinación de los colores principales, que están basados en tonos de blanco y verde respectivamente, aseguran una combinación de interfaz moderna, limpia y sencilla junto con vida y naturaleza. El contenido principal de las funcionalidades siempre está dentro de un fondo blanco permitiendo la claridez del contenido, mientras que funcioanlidades como el menú y métricas se encuentran dentro de fondos verdes que aseguran una separación con respecto al contenido principal.
 
-### 6.3.2. Registro de Entrevistas
+**Botones e Íconos**  
+Los botones e íconos, tales como el de iniciar sesión y el de reporte de contenedor en el caso de los ciudadanos, estan diseñados para ser fácilmente ubicables por el usuario, pues los botones siempre están presentes para ejecutar procesos fundamentales de la aplicación. Todos los botones tienen bordes suaves y colores brillantes, elementos escenciales para la modernidad del diseño y la fácil identificación por parte del usuario respectivamente. Entre los íconos principales destacan el de notificaciones y el de perfil de usuario, usando la campana y la persona respectivamente, permitiendo que el usuario sepa inmediatamente a que funcionalidad hacen referencia.
 
-### 6.3.3. Evaluaciones según heurísticas
+### 6.2.2. Labeling Systems
 
-## 6.4. Video About-the-Product
+### 6.2.3. SEO Tags and Meta Tags
+```<meta charset="UTF-8">```  
 
-## 7. Conclusiones
+```<meta name="author" content="SmartWaste Team">```  
 
-### 7.1. Conclusiones y recomendaciones
+```<meta name="title" content="Sistema de Monitoreo de Contenedores de Basura y Rutas de Camiones Recolectores - SmartWaste">```  
 
-Después de analizar el desarrollo de la plataforma **WasteTrack**, se han identificado varias conclusiones clave sobre su viabilidad y eficacia para mejorar la gestión de residuos urbanos en Perú:
+```<meta name="description" content="Plataforma inteligente para monitorear el estado de los contenedores de basura dentro un área habitada, optimizar rutas de camiones recolectores mediante nodos de rutas de los mismos, y reportar llenados. Solución para autoridades y ciudadanos.">```   
 
-1. **Optimización de rutas**: WasteTrack demuestra ser una herramienta eficaz para optimizar las rutas de recolección de residuos, mejorando la eficiencia operativa y reduciendo costos en las municipalidades.
-2. **Participación ciudadana**: Una de las características destacadas de WasteTrack es la integración de una plataforma que permite a los ciudadanos seguir el recorrido de los camiones recolectores, lo cual fomenta la transparencia y la colaboración en la gestión de residuos.
-3. **Adaptación local**: A diferencia de los competidores internacionales, WasteTrack se adapta específicamente a las necesidades de las municipalidades peruanas, considerando factores como el tráfico y las características geográficas locales.
-4. **Costo accesible**: La solución es asequible y escalable, lo que la hace viable para municipalidades con presupuestos limitados, algo que otros competidores no logran en mercados emergentes.
+```<meta name="keywords" content="contenedores inteligentes, monitoreo de residuos, rutas de recolección, basura inteligente, gestión de residuos, camiones recolectores, ciudad inteligente, reporte de llenado, contenedores cercanos, optimización de rutas">```  
 
-**Recomendaciones**:
-- **Expansión a más municipalidades**: Se recomienda ampliar la implementación de WasteTrack en otras ciudades de Perú, a medida que más municipios busquen soluciones sostenibles para la recolección de residuos.
-- **Mejoras continuas en la interfaz de usuario**: A medida que se reciba feedback de los usuarios, se recomienda seguir mejorando la interfaz para asegurar que sea aún más intuitiva y accesible.
-- **Fomentar la participación ciudadana**: Se debe promover aún más la participación activa de los ciudadanos en la gestión de residuos mediante nuevas funciones que les permitan reportar fácilmente problemas como contenedores llenos o mal ubicados.
+```<meta name="viewport" content="width=device-width, initial-scale=1.0">```  
 
-### 8. Bibliografía
+Esta configuración meta y SEO tags permiten que la aplicación sea más visible y atractiva en los motores de búsqueda y redes sociales. Ayudan a que tanto usuarios ciudadanos como autoridades municipales encuentren fácilmente la plataforma cuando buscan soluciones relacionadas con la gestión de residuos, monitoreo de contenedores o rutas de recolección de basura.
 
-- Koller, J., & García, M. (2022). *Gestión inteligente de residuos urbanos con IoT: Retos y oportunidades*. Editorial Innovación Urbana.
-- Pérez, L. (2023). *Tecnologías de optimización de rutas para la recolección de residuos urbanos*. Journal of Urban Sustainability.
-- Martínez, F., & López, R. (2021). *Participación ciudadana en la gestión de residuos urbanos: El caso de las plataformas tecnológicas*. Revista de Gestión y Tecnología Ambiental, 14(2), 89-105.
+Además:
 
-### 9. Anexos
+- Mejoran el posicionamiento web (SEO) en búsquedas relevantes.
+- Resaltan la utilidad clave de la app (monitoreo, reportes, optimización de rutas) desde el primer contacto.
+- Incrementan el CTR (tasa de clics) al mostrar títulos y descripciones claras y atractivas.
+- Favorecen la difusión en redes sociales, mostrando una vista previa coherente y profesional.
 
-<table>
-        <thead>
-            <tr>
-                <th>Sección</th>
-                <th>Características del video</th>
-                <th>Sobre el contenido</th>
-                <th>Integración y entrega</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Exposición</td>
-                <td>Cantidad de videos: 1 <br> 
-                  Nomenclatura: upc-pre-202501-1ASI0728-4283-CleanCityTeam-video-tb1 <br>
-                  Formato: .mp4 <br>
-                  Duración: 20 minutos </td>
-                <td>Exposición de la entrega - TB1</td>
-                <td>Link: https://drive.google.com/file/d/1tRM-6WHxp1wa-8ooGUuBXDWPTSeqVhE6/view?usp=sharing
-                   <br>
-                  <img src="" alt="" width="350"/> </td>
-            </tr>
-        </tbody>
-</table>
+### 6.2.4. Searching Systems
+
+El sistema de búsqueda de WasteTrack esta diseñado para que el usuario, sea autoridad municipal o ciudadano, pueda encontrar todas las funcionalidades de forma rápida. Esto lo conseguimos a traves de un menú lateral, en el cual, el usuario puede elegir la funcionalidad a la cual este desea acceder, según su rol, y la aplicación, inmediatamente, lo llevará al apartado seleccionado.
+
+En el caso de las autoridades municipales, disponen de un mapa en tiempo real donde pueden localizar de forma rápida todos los contendores correspondientes al distrito bajo el cual se esta administrando. De esta forma conseguimos que el funcionario pueda localizar un contenedor en específico de forma rápida y accesible.
+
+### 6.2.5. Navigation Systems
+
+El sistema de navegación de WasteTrack busca que el usuario pueda acceder de forma rápida a todas las funcionalidades de la aplicación, proporcionando una experiencia fluida, intuitiva y estructurada.
+
+Para lograr aquello, empleamos un menú desplegable el cual muestra todas las funcionalidades, según el rol del usuario, para que el mismo pueda ubicar rápidamente la funcionalidad deseada y acceder a ella inmediatamente. Adicional a ello, cada una de las pantallas disponen de 2 botones tanto de perfil de usuario como de cierre de sesión; el usuario, además, dispone siempre de un botón de reporte de contenedor, con el que puede acceder al formulario de reporte de contenedor de forma inmediata, maximizando la experiencia de usuario.
+
+## 6.3. Landing Page UI Design
+
+### 6.3.1. Landing Page Wireframe
+
+En esta sección, se muestra un esquema básico del diseño de la Landing Page, donde se resaltan las principales áreas de contenido, como el encabezado y las secciones de beneficios para ciudadanos y municipalidades. Este wireframe representa la estructura fundamental de la página sin detalles visuales específicos.
+
+<img src="../assets/img/chapter-V/landing-wireframe-1.png">  
+<img src="../assets/img/chapter-V/landing-wireframe-2.png">  
+<img src="../assets/img/chapter-V/landing-wireframe-3.png">  
+<img src="../assets/img/chapter-V/landing-wireframe-4.png"> 
+<img src="../assets/img/chapter-V/landing-wireframe-5.png"> 
+
+### 6.3.2. Landing Page Mock-up
+
+El mock-up de la Landing Page ofrece una representación visual más avanzada del diseño final, incluyendo los colores, tipografía, imágenes y componentes interactivos. Este diseño está orientado a proporcionar una idea clara de cómo será la interfaz una vez implementada, reflejando la identidad visual de WasteTrack y su enfoque en la usabilidad.
+
+<img src="../assets/img/chapter-V/landing-mockup-6.jpeg"> 
+<img src="../assets/img/chapter-V/landing-mockup-5.jpeg"> 
+<img src="../assets/img/chapter-V/landing-mockup-4.jpeg"> 
+<img src="../assets/img/chapter-V/landing-mockup-3.jpeg"> 
+<img src="../assets/img/chapter-V/landing-mockup-2.jpeg"> 
+
+## 6.4. Applications UX/UI Design
+
+### 6.4.1. Applications Wireframes
+
+Inicio de Sesión
+<img src="../assets/img/chapter-VI/Wireframe-2.png" width="900"> 
+
+Registro de Usuario
+<img src="../assets/img/chapter-VI/Wireframe-1.png" width="900"> 
+
+Ajustes de Usuario - Configuración
+<img src="../assets/img/chapter-VI/Wireframe-3.png" width="900"> 
+
+Registro de Desperdicios
+<img src="../assets/img/chapter-VI/Wireframe-4.png" width="900"> 
+
+Mapeo de Rutas de Camiones
+<img src="../assets/img/chapter-VI/Wireframe-5.png" width="900"> 
+
+Estado de Contenedor
+<img src="../assets/img/chapter-VI/Wireframe-6.png" width="900"> 
+
+Reporte de Contenedor Desbordado
+<img src="../assets/img/chapter-VI/Wireframe-7.png" width="900"> 
+
+### 6.4.2. Applications Wireflow Diagrams
+
+Flujo 1: Inicio de Sesión - Registro de Usuario
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-1.png" width="800"> 
+
+Flujo 2: Ajuste de Datos de Perfil
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-2.png" width="800"> 
+
+Flujo 3: Datos y Ajuste del Contenedor Especificado
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-3.png" width="800"> 
+
+Flujo 4: Visualización de Rutas de los Camiones Recolectores
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-4.png" width="800"> 
+
+Flujo 5: Reporte de Contenedor Desbordado
+<img src="../assets/img/chapter-VI/Wireframe-Diagram-5.png" width="800"> 
+
+### 6.4.3. Applications Mock-ups
+
+### 6.4.4. Applications User Flow Diagrams
+
+## 6.5. Applications Prototyping
