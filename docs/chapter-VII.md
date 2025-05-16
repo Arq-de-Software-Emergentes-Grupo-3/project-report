@@ -77,13 +77,35 @@ Después de analizar el desarrollo de la plataforma **WasteTrack**, se han ident
         </thead>
         <tbody>
             <tr>
-                <td>Exposición</td>
+                <td>Exposición TB1</td>
                 <td>Cantidad de videos: 1 <br> 
                   Nomenclatura: upc-pre-202501-1ASI0728-4283-CleanCityTeam-video-tb1 <br>
                   Formato: .mp4 <br>
                   Duración: 20 minutos </td>
                 <td>Exposición de la entrega - TB1</td>
-                <td>Link: https://drive.google.com/file/d/1tRM-6WHxp1wa-8ooGUuBXDWPTSeqVhE6/view?usp=sharing
+                <td>Link: https://shorturl.at/J6AuT
+                   <br>
+                  <img src="" alt="" width="350"/> </td>
+            </tr>
+            <tr>
+                <td>Needfinding</td>
+                <td>Cantidad de videos: 1 <br> 
+                  Nomenclatura: upc-pre-202501-1ASI0728-4283-CleanCityTeam-needfinding-tb1 <br>
+                  Formato: .mp4 <br>
+                  Duración: 20 minutos </td>
+                <td>Consolida las entrevistas de needfinding</td>
+                <td>Link: https://shorturl.at/Wl35Y
+                   <br>
+                  <img src="" alt="" width="350"/> </td>
+            </tr>
+            <tr>
+                <td>Exposición TP</td>
+                <td>Cantidad de videos: 1 <br> 
+                  Nomenclatura: upc-pre-202501-1ASI0728-4283-CleanCityTeam-expo-tp1 <br>
+                  Formato: .mp4 <br>
+                  Duración: 20 minutos </td>
+                <td>Exposición de la entrega - TP1</td>
+                <td>Link: https://shorturl.at/aNQUd
                    <br>
                   <img src="" alt="" width="350"/> </td>
             </tr>
